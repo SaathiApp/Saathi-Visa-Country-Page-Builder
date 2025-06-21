@@ -136,7 +136,6 @@ $steps = [
     "Receive your Visa"
 ];
 
-
 // FAQs
 $faqs = [
     [
@@ -184,6 +183,7 @@ $activeTab = isset($_GET['tab']) ? $_GET['tab'] : 'types-of-visas';
     <noscript>
         <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
     </noscript>
+    <title>`Country` Visa for Indians: Fees, Requirements, and Process</title>
     <meta name="description" content="Apply online for your `Country` visa from India with ease. We ensure you get your visa on time through a quick and simple application process, fast approvals, and reliable support." />
     <meta name="keywords" content="`Country`,apply `Country` visa online,how to apply for `Country` visa,`Country` visa requirements,`Country` tourist" />
     <meta name="robots" content="index, follow" />
@@ -277,18 +277,6 @@ $activeTab = isset($_GET['tab']) ? $_GET['tab'] : 'types-of-visas';
     .badge img {
         margin-right: 8px;
     }
-
-    /* .badge::after {
-        content: '';
-        position: absolute;
-        right: -15px;
-        top: 0;
-        width: 0;
-        height: 0;
-        border-top: 17px solid transparent;
-        border-bottom: 17px solid transparent;
-        border-left: 15px solid #A093FF;
-    } */
 
     .info-box {
         margin-bottom: 15px;
@@ -853,8 +841,6 @@ $activeTab = isset($_GET['tab']) ? $_GET['tab'] : 'types-of-visas';
         }
     }
 
-
-
     .floating-buttons-container {
         position: fixed;
         left: 20px;
@@ -1190,7 +1176,7 @@ $activeTab = isset($_GET['tab']) ? $_GET['tab'] : 'types-of-visas';
                                 <select name="visa_type" required>
                                     <option value="" disabled selected>Visa type</option>
                                     <?php foreach ($visa_types as $visa): ?>
-                                        <option value="<?php echo $visa['type']; ?>"><?php echo $visa['type']; ?></option>
+                                        <option value="<?php echo htmlspecialchars($visa['type']); ?>"><?php echo htmlspecialchars($visa['type']); ?></option>
                                     <?php endforeach; ?>
                                 </select>
                             </div>
@@ -1242,31 +1228,45 @@ $activeTab = isset($_GET['tab']) ? $_GET['tab'] : 'types-of-visas';
                 <div class="visa-cards">
                     <?php foreach ($visa_types as $visa): ?>
                         <div class="visa-card">
-                            <h3><?php echo $visa['type']; ?></h3>
-                            <?php if (isset($visa['ideal_for'])): ?>
-                                <p class="subtitle"><?php echo $visa['ideal_for']; ?></p>
+                            <h3><?php echo htmlspecialchars($visa['type']); ?></h3>
+                            <?php if (isset($visa['ideal_for']) && !empty($visa['ideal_for'])): ?>
+                                <p class="subtitle"><?php echo htmlspecialchars($visa['ideal_for']); ?></p>
                             <?php endif; ?>
                             <div class="visa-details">
-                                <div class="detail-row">
-                                    <span class="detail-label">Processing time:</span>
-                                    <span class="detail-value"><?php echo $visa['processing_time']; ?></span>
-                                </div>
-                                <div class="detail-row">
-                                    <span class="detail-label">Stay period:</span>
-                                    <span class="detail-value"><?php echo $visa['stay_period']; ?></span>
-                                </div>
-                                <div class="detail-row">
-                                    <span class="detail-label">Validity:</span>
-                                    <span class="detail-value"><?php echo $visa['validity']; ?></span>
-                                </div>
-                                <div class="detail-row">
-                                    <span class="detail-label">Entry:</span>
-                                    <span class="detail-value"><?php echo $visa['entry']; ?></span>
-                                </div>
-                                <div class="detail-row fees">
-                                    <span class="detail-label">Fees:</span>
-                                    <span class="detail-value"><?php echo $visa['fees']; ?></span>
-                                </div>
+                                <?php if (isset($visa['processing_time']) && !empty($visa['processing_time'])): ?>
+                                    <div class="detail-row">
+                                        <span class="detail-label">Processing time:</span>
+                                        <span class="detail-value"><?php echo htmlspecialchars($visa['processing_time']); ?></span>
+                                    </div>
+                                <?php endif; ?>
+                                
+                                <?php if (isset($visa['stay_period']) && !empty($visa['stay_period'])): ?>
+                                    <div class="detail-row">
+                                        <span class="detail-label">Stay period:</span>
+                                        <span class="detail-value"><?php echo htmlspecialchars($visa['stay_period']); ?></span>
+                                    </div>
+                                <?php endif; ?>
+                                
+                                <?php if (isset($visa['validity']) && !empty($visa['validity'])): ?>
+                                    <div class="detail-row">
+                                        <span class="detail-label">Validity:</span>
+                                        <span class="detail-value"><?php echo htmlspecialchars($visa['validity']); ?></span>
+                                    </div>
+                                <?php endif; ?>
+                                
+                                <?php if (isset($visa['entry']) && !empty($visa['entry'])): ?>
+                                    <div class="detail-row">
+                                        <span class="detail-label">Entry:</span>
+                                        <span class="detail-value"><?php echo htmlspecialchars($visa['entry']); ?></span>
+                                    </div>
+                                <?php endif; ?>
+                                
+                                <?php if (isset($visa['fees']) && !empty($visa['fees'])): ?>
+                                    <div class="detail-row fees">
+                                        <span class="detail-label">Fees:</span>
+                                        <span class="detail-value"><?php echo htmlspecialchars($visa['fees']); ?></span>
+                                    </div>
+                                <?php endif; ?>
                             </div>
                         </div>
                     <?php endforeach; ?>
@@ -1274,29 +1274,30 @@ $activeTab = isset($_GET['tab']) ? $_GET['tab'] : 'types-of-visas';
             </div>
 
             <!-- Documents Section -->
-            <!-- Documents Section -->
             <div class="section" id="documents">
                 <h2>Documents required for `Country` Visa for Indians</h2>
                 <div class="documents-container">
 
                     <!-- Must Have Documents -->
-                    <div class="document-box">
-                        <h3>Must Have Documents for `Country` Tourist Visa:</h3>
-                        <ul class="document-list">
-                            <?php foreach ($documents['must_have'] as $document): ?>
-                                <li><?php echo htmlspecialchars($document); ?></li>
-                            <?php endforeach; ?>
-                        </ul>
-                    </div>
+                    <?php if (isset($documents['must_have']) && !empty($documents['must_have'])): ?>
+                        <div class="document-box">
+                            <h3>Must Have Documents for `Country` Tourist Visa:</h3>
+                            <ul class="document-list">
+                                <?php foreach ($documents['must_have'] as $document): ?>
+                                    <li><?php echo htmlspecialchars($document); ?></li>
+                                <?php endforeach; ?>
+                            </ul>
+                        </div>
+                    <?php endif; ?>
 
                     <!-- Supporting Documents -->
                     <?php
                     $hasSupportingDocuments = false;
 
                     // First check: does at least one support item have non-empty 'items'?
-                    if (!empty($documents['supporting_documents'])) {
+                    if (isset($documents['supporting_documents']) && !empty($documents['supporting_documents'])) {
                         foreach ($documents['supporting_documents'] as $supporting) {
-                            if (!empty($supporting['items'])) {
+                            if (isset($supporting['items']) && !empty($supporting['items'])) {
                                 $hasSupportingDocuments = true;
                                 break;
                             }
@@ -1309,8 +1310,10 @@ $activeTab = isset($_GET['tab']) ? $_GET['tab'] : 'types-of-visas';
                             <h3>Supporting Documents:</h3>
 
                             <?php foreach ($documents['supporting_documents'] as $supporting): ?>
-                                <?php if (!empty($supporting['items'])): ?>
-                                    <h4 style="font-size: 16px; color: #1d2b45; margin-top: 20px;"><?php echo htmlspecialchars($supporting['title']); ?></h4>
+                                <?php if (isset($supporting['items']) && !empty($supporting['items'])): ?>
+                                    <?php if (isset($supporting['title']) && !empty($supporting['title'])): ?>
+                                        <h4 style="font-size: 16px; color: #1d2b45; margin-top: 20px;"><?php echo htmlspecialchars($supporting['title']); ?></h4>
+                                    <?php endif; ?>
                                     <ul class="document-list">
                                         <?php foreach ($supporting['items'] as $item): ?>
                                             <li><?php echo htmlspecialchars($item); ?></li>
@@ -1325,7 +1328,6 @@ $activeTab = isset($_GET['tab']) ? $_GET['tab'] : 'types-of-visas';
                 </div>
             </div>
 
-            <!-- Process Section -->
             <!-- Process Section -->
             <div class="section" id="process">
                 <h2>Applying for `Country` Tourist Visa through us is this simple</h2>
@@ -1365,13 +1367,13 @@ $activeTab = isset($_GET['tab']) ? $_GET['tab'] : 'types-of-visas';
                     <?php foreach ($faqs as $index => $faq): ?>
                         <div class="faq-item <?php echo $index === 0 ? 'active' : ''; ?>">
                             <div class="faq-question">
-                                <span><?php echo $faq['question']; ?></span>
+                                <span><?php echo isset($faq['question']) ? htmlspecialchars($faq['question']) : ''; ?></span>
                                 <button class="toggle-btn">
                                     <i class="fas <?php echo $index === 0 ? 'fa-minus' : 'fa-plus'; ?>"></i>
                                 </button>
                             </div>
                             <div class="faq-answer" <?php echo $index === 0 ? 'style="display: block;"' : ''; ?>>
-                                <p><?php echo $faq['answer']; ?></p>
+                                <p><?php echo isset($faq['answer']) ? htmlspecialchars($faq['answer']) : ''; ?></p>
                             </div>
                         </div>
                     <?php endforeach; ?>
