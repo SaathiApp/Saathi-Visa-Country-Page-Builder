@@ -1,0 +1,4197 @@
+[
+  {
+    "country": "Barbados",
+    "visa_types": [
+      {
+        "type": "Single Entry Visitor Visa",
+        "processing_time": "20 to 25 days",
+        "validity": "3 months",
+        "entry": "Single",
+        "fees": "INR 8,999/-",
+        "ideal_for": "Indian passport holders wishing to enter Barbados for tourism, business, short visits etc"
+      },
+      {
+        "type": "Multiple Entry Visitor Visa",
+        "processing_time": "20 to 25 days",
+        "validity": "6 months",
+        "entry": "Multiple",
+        "fees": "INR 15,899/-",
+        "ideal_for": "Indian passport holders wishing to enter Barbados for tourism, business, short visits etc"
+      }
+    ]
+  },
+  {
+    "country": "Oman",
+    "visa_types": [
+      {
+        "type": "10 Days Tourist Visa",
+        "processing_time": "5-6 days",
+        "stay_period": "10 days",
+        "validity": "3 months",
+        "entry": "Single",
+        "fees": "INR 4,499/-"
+      },
+      {
+        "type": "30 Days Tourist Visa",
+        "processing_time": "5-6 days",
+        "stay_period": "30 days",
+        "validity": "3 months",
+        "entry": "Single",
+        "fees": "INR 7,999/-"
+      }
+    ]
+  },
+  {
+    "country": "Belize",
+    "visa_types": [
+      {
+        "type": "Single Entry Visa",
+        "processing_time": "20 to 25 days",
+        "stay_period": "30 days",
+        "validity": "3 months",
+        "entry": "Single",
+        "fees": "INR 9,900/-",
+        "ideal_for": "Indian passport holders who want to visit Belize for tourism, sightseeing or visiting family and friends"
+      },
+      {
+        "type": "Multiple Entry Visitor Visa",
+        "processing_time": "20 to 25 days",
+        "stay_period": "30 days",
+        "validity": "6 months",
+        "entry": "Multiple",
+        "fees": "INR 14,600/-",
+        "ideal_for": "Indian passport holders who want to visit Belize for the purpose of business such as attending meetings, conferences, participation in exhibitions, seminars or any other commercial activities"
+      }
+    ]
+  },
+  {
+    "country": "Uzbekistan",
+    "visa_types": [
+      {
+        "type": "Tourist eVisa - Single Entry (Popular)",
+        "processing_time": "3 to 4 days",
+        "stay_period": "30 days",
+        "validity": "90 days",
+        "entry": "Single/Double/Multiple",
+        "fees": "INR 2,499 /-"
+      },
+      {
+        "type": "Toursit eVisa - Double Entry",
+        "processing_time": "8 to 10 days",
+        "stay_period": "30 days",
+        "validity": "30 days",
+        "entry": "Single/Multiple",
+        "fees": "INR 4,999/-"
+      },
+      {
+        "type": "Toursit eVisa - Multiple Entry",
+        "processing_time": "8 to 10 days",
+        "stay_period": "30 days",
+        "validity": "30 days",
+        "entry": "Single/Multiple",
+        "fees": "INR 6,499/-"
+      }
+    ]
+  },
+  {
+    "country": "United Arab Emirates",
+    "visa_types": [
+      {
+        "type": "96 Hours Transit Visa",
+        "processing_time": "Upto 5 days",
+        "stay_period": "4 days",
+        "validity": "30 days",
+        "entry": "Single",
+        "fees": "INR 3,999/-"
+      },
+      {
+        "type": "30 Days Tourist Visa (Express)",
+        "processing_time": "Upto 48 hours",
+        "stay_period": "30 days",
+        "validity": "58 days",
+        "entry": "Single",
+        "fees": "INR 8,199/-"
+      }
+    ]
+  },
+  {
+    "country": "Kuwait",
+    "visa_types": [
+      {
+        "type": "Tourist Visa - Please contact us for latest update",
+        "processing_time": "3 to 4 days",
+        "validity": "3 months",
+        "entry": "Single",
+        "fees": "Available on request",
+        "ideal_for": "Indian passport holders who want to visit Kuwait for tourism, sightseeing or leisure"
+      },
+      {
+        "type": "Visit Visa - Please contact us for latest update",
+        "processing_time": "6 to 7 days",
+        "validity": "1 month",
+        "entry": "Single",
+        "visa_fee": "Available on request",
+        "ideal_for": "Indian passport holders intending to visit the country with a specific purpose."
+      }
+    ]
+  },
+  {
+    "country": "Somalia",
+    "visa_types": [
+      {
+        "type": "3 Months Single Entry Visitor Visa",
+        "processing_time": "3 to 5 days",
+        "validity": "3 months",
+        "entry": "Single",
+        "fees ": "INR 13,999/-",
+        "ideal_for": "Indian passport holders wishing to enter Somalia for tourism, business, short visits etc"
+      },
+      {
+        "type": "6 Months Single Entry Visitor Visa",
+        "processing_time": "3 to 5 days",
+        "validity": "6 months",
+        "entry": "Single",
+        "fees": "INR 16,999/-",
+        "ideal_for": "Indian passport holders wishing to enter Somalia for tourism, business, short visits etc"
+      },
+      {
+        "type": "1 Year Multiple Entry Visitor Visa",
+        "processing_time": "3 to 5 days",
+        "validity": "1 Year",
+        "entry": "Multiple",
+        "fees ": "INR 22,099/-",
+        "ideal_for": "Indian passport holders wishing to enter Somalia for tourism, business, short visits etc"
+      }
+    ]
+  },
+  {
+    "country": "Eritrea",
+    "visa_types": [
+      {
+        "type": "Tourist Visa",
+        "processing_time": "15 to 20 days",
+        "validity": "Up to 90 days",
+        "entry": "Single",
+        "fees": "INR 5,200/-",
+        "ideal_for": "Indian passport holders who want to visit Eritrea for leisure purpose, sightseeing or visiting family and friends"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "15 to 20 days",
+        "validity": "Up to 90 days",
+        "entry": "Single",
+        "fees ": "INR 9,200/-",
+        "ideal_for": "Indian passport holders who want to visit Eritrea for the purpose of business, participation in exhibitions, commercial events"
+      }
+    ]
+  },
+  {
+    "country": "Singapore",
+    "visa_types": [
+      {
+        "type": "Tourist Visa",
+        "processing_time": "3-5 working days",
+        "stay_period": "Upto 30 days",
+        "validity": "Up to 2 years",
+        "entry": "Single / Multiple",
+        "fees": "INR 2,600/-",
+        "ideal_for": "Indian passport holders who want to visit Eritrea for leisure purpose, sightseeing or visiting family and friends"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "3-5 working days",
+        "validity": "Up to 2 years",
+        "stay_period": "Upto 30 days",
+        "entry": "Single / Multiple",
+        "fees ": "INR 2,600/-",
+        "ideal_for": "Indian passport holders who want to visit Eritrea for the purpose of business, participation in exhibitions, commercial events"
+      }
+    ]
+  },
+  {
+    "country": "Hungary",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Short term)",
+        "processing_time": "10-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7,399/-"
+      },
+      {
+        "type": "Business Visa (Short term)",
+        "processing_time": "10-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7,399/-"
+      }
+    ]
+  },
+  {
+    "country": "Denmark",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Short term )",
+        "processing_time": "10-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7,699/-"
+      },
+      {
+        "type": "Business Visa (Short term )",
+        "processing_time": "10-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7,699/-"
+      }
+    ]
+  },
+  {
+    "country": "Sweden",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Short term)",
+        "processing_time": "10-12 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7,199/-"
+      },
+      {
+        "type": "Business Visa (Short term)",
+        "processing_time": "10-12 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7,199/-"
+      }
+    ]
+  },
+  {
+    "country": "Nigeria",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Popular)",
+        "processing_time": "20 to 25 days",
+        "stay_period": "90 days",
+        "validity": "90 days",
+        "entry": "Single/Multiple",
+        "fees": "INR 26,399/-",
+        "ideal_for": "Indian passport holders who want to visit Nigeria for leisure purpose, sightseeing or visiting family and friends"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "20 to 25 days",
+        "stay_period": "90 days",
+        "validity": "90 days",
+        "entry": "Single/Multiple",
+        "fees ": "INR 26,399/-",
+        "ideal_for": "Indian passport holders who want to visit Nigeria for the purpose of business, participation in exhibitions, commercial events"
+      }
+    ]
+  },
+  {
+    "country": "Belgium",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Short term)",
+        "processing_time": "10-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7,599/-"
+      },
+      {
+        "type": "Business Visa ( Short term )",
+        "processing_time": "10-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7,599/-"
+      }
+    ]
+  },
+  {
+    "country": "Maldives",
+    "visa_types": [
+      {
+        "type": "Tourist Visa on Arrival",
+        "stay_period": "30 days",
+        "entry": "Single entry",
+        "fees ": "Free",
+        "extension": "Up to 60 days",
+        "ideal_for": "Indian citizens wishing to visit Maldives for the purpose of tourism and holidaying"
+      },
+      {
+        "type": "Business Visa on Arrival",
+        "stay_period": "30 days",
+        "validity": "1 month",
+        "entry": "Single Entry",
+        "fees ": "Free",
+        "extension": "Up to 60 days",
+        "ideal_for": "Indian citizens wishing to visit Maldives for business purpose like attending meeting, conference, exhibition or seminar"
+      }
+    ]
+  },
+  {
+    "country": "Madagascar",
+    "visa_types": [
+      {
+        "type": "Tourist Visa",
+        "processing_time": "3 to 4 days",
+        "validity": "1 month",
+        "entry": "Single",
+        "fees": "INR 3,799/-",
+        "ideal_for": "Indian passport holders wishing to enter fortourism, sightseeing or visiting family and friends"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "3 to 4 days",
+        "validity": "1 month",
+        "entry": "Single",
+        "fees": "INR 3,799/-",
+        "ideal_for": "Indian passport holders attending business meetings, exhibitions. conferences in Madagascar"
+      }
+    ]
+  },
+  {
+    "country": "Botswana",
+    "visa_types": [
+      {
+        "type": "Tourist Visa  (Popular)",
+        "processing_time": "7 to 14 days",
+        "validity": "3 months",
+        "entry": "Single entry",
+        "fees": "INR 4,800/-",
+        "ideal_for": "Indian passport holders who intend to visit Botswana for a holiday, sightseeing, social or recreational reasons, or for other short-term non-work purposes.\nThe main reasons should be Tourism/vacation (holiday)"
+      },
+      {
+        "type": "Visitor Visa",
+        "processing_time": "7 to 14 days",
+        "validity": "3 months",
+        "entry": "Single entry",
+        "fees": "INR 8,160/-",
+        "ideal_for": "Indian passport holders visiting for social reasons.\nThis visa lets you travel to Botswana to:\nVisit with friends or relatives\nMedical treatment etc."
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "7 to 14 days",
+        "validity": "3 months",
+        "entry": "Single entry",
+        "extension": "Granted up to 3 weeks",
+        "fees": "INR 11,800/-",
+        "ideal_for": "Indian passport holders who are prospective investors, entrepreneur or traders & want to visit and/ or explore business opportunities in Botswana. Business activities may include; Consulting with business associates, attending a scientific educational, professional, business convention/conference and negotiate a contract"
+      }
+    ]
+  },
+  {
+    "country": "Croatia",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Short term)",
+        "processing_time": "10-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "As per Embassy",
+        "entry": "Single/Multiple",
+        "fees": "INR 8,999/-"
+      },
+      {
+        "type": "Business Visa (Short term)",
+        "processing_time": "10-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "As per Embassy",
+        "entry": "Single/Multiple",
+        "fees": "INR 8,999/-"
+      }
+    ]
+  },
+  {
+    "country": "Grenada",
+    "visa_types": [
+      {
+        "type": "Tourist Visa on Arrival",
+        "stay_period": "Up to 3 months",
+        "visa_fees": "As per Embassy",
+        "entry": "Single entry",
+        "fees": "INR 7,999/-",
+        "ideal_for": "Indian citizens wishing to visit Grenada for the purposes of tourism, sightseeing or visiting relatives and friends"
+      },
+      {
+        "type": "Business Visa",
+        "stay_period": "30 days",
+        "visa_fees": "As per Embassy",
+        "entry": "Single entry",
+        "fees": "INR 7,999/-",
+        "ideal_for": "Indian citizens wishing to visit Grenada for the business purpose"
+      }
+    ]
+  },
+  {
+    "country": "Bahrain",
+    "visa_types": [
+      {
+        "type": "14 Days Tourist eVisa",
+        "processing_time": "10-12 days",
+        "stay_period": "14 days",
+        "validity": "1 month",
+        "entry": "Single",
+        "fees": "INR 8,499/-"
+      },
+      {
+        "type": "30 Days Tourist Visa",
+        "processing_time": "10-12 days",
+        "stay_period": "30 days",
+        "validity": "1 month",
+        "entry": "Single",
+        "fees": "INR 15,999/-"
+      }
+    ]
+  },
+  {
+    "country": "Equatorial Guinea",
+    "visa_types": [
+      {
+        "type": "Tourist Visa",
+        "processing_time": "08 to 09 days",
+        "validity": "30 days",
+        "entry": "Single/Multiple",
+        "fees": "INR 9,050/-",
+        "ideal_for": "Indian passport holders who want to visit Equatorial Guinea for tourism, sightseeing or visiting family and friends"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "8 to 9 days",
+        "validity": "30 days",
+        "entry": "Single/Multiple",
+        "fees ": "INR 9,050/-",
+        "ideal_for": "Indian passport holders who want to visit Equatorial Guineafor the purpose of business such as attending meetings, conferences, participation in exhibitions, seminars or any other commercial activities"
+      }
+    ]
+  },
+  {
+    "country": "Aruba",
+    "visa_types": [
+      {
+        "type": "Tourist Visa",
+        "processing_time": "Up to 15 days",
+        "stay_period": "30 days",
+        "validity": "3 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 5,650/-",
+        "ideal_for": "Indian passport holders who want to visit Arubafor tourism, sightseeing or visiting family and friends"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "Up to 15 days",
+        "stay_period": "30 days",
+        "validity": "3 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 5,650/-",
+        "ideal_for": "Indian passport holders who want to visit Aruba for the purpose of business such as attending meetings, conferences, participation in exhibitions, seminars or any other commercial activities"
+      }
+    ]
+  },
+  {
+    "country": "Micronesia",
+    "visa_types": [
+      {
+        "type": "Tourist Visa not required",
+        "stay_period": "30 days",
+        "entry": "Single",
+        "extension": "Up to 60 days",
+        "ideal_for": "Indian passport holders wishing to visit Micronesia for tourism or visit purpose."
+      },
+      {
+        "type": "Business Visa not required",
+        "stay_period": "30 days",
+        "entry": "Single",
+        "extension": "Up to 60 days",
+        "ideal_for": "Indian passport holders wishing to visit Micronesia for business purposes like attending conferences, exhibitions or meetings"
+      }
+    ]
+  },
+  {
+    "country": "Macedonia",
+    "visa_types": [
+      {
+        "type": "Short Stay Tourist Visa (type C)",
+        "processing_time": "8 to 10 days",
+        "validity": "3 months",
+        "entry": "Single",
+        "fees": "INR 4,300/-",
+        "ideal_for": "Indian passport holders who want to visit Macedoniafor tourism, sightseeing or visiting family and friends"
+      },
+      {
+        "type": "Short Stay Business Visa (type C)",
+        "processing_time": "10 to 15 days",
+        "validity": "3 months",
+        "entry": "Single",
+        "fees": "INR 6,200/-",
+        "ideal_for": "Indian passport holders who want to visit Macedoniafor the purpose of business such as attending meetings, conferences, participation in exhibitions, seminars or any other commercial activities"
+      }
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Short term)",
+        "processing_time": "10-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7,199/-"
+      },
+      {
+        "type": "Business Visa (Short term)",
+        "processing_time": "10-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7,199/-"
+      }
+    ]
+  },
+  {
+    "country": "Chad",
+    "visa_types": [
+      {
+        "type": "Single Entry Visa",
+        "processing_time": "7 to 10 days",
+        "validity": "30 days",
+        "entry": "Single",
+        "fees": "INR 8,499/-",
+        "ideal_for": "Indian passport holders who want to visit Chadfor leisure purpose, sightseeing or visiting family and friends"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "7 to 10 days",
+        "validity": "30 days",
+        "entry": "Single",
+        "fees": "INR 8,499/-",
+        "ideal_for": "Indian passport holders who want to visit Chad for the purpose of business, participation in exhibitions, commercial events"
+      }
+    ]
+  },
+  {
+    "country": "Chile",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Popular)",
+        "processing_time": "10-15 days",
+        "validity": "Upto 90 days",
+        "entry": "Single",
+        "fees": "INR 4,999/-",
+        "ideal_for": "Indian passport holderswishing to tour Chile"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "10-12 days",
+        "validity": "Upto 90 days",
+        "entry": "Single",
+        "fees": "INR 4,999/-",
+        "ideal_for": "Indian passport holdersattending businessmeetings, conferencesin Chile"
+      }
+    ]
+  },
+  {
+    "country": "Kyrgyzstan",
+    "visa_types": [
+      {
+        "type": "Tourist eVisa (Popular)",
+        "processing_time": "2 to 3 days",
+        "stay_period": "30 days",
+        "validity": "3 months",
+        "entry": "Single/Double",
+        "fees": "INR 2,899/-",
+        "ideal_for": "Indian passport holders wishing to visit Kyrgyzstan for tourism & visit purpose"
+      },
+      {
+        "type": "Business eVisa (Popular)",
+        "processing_time": "2 to 3 days",
+        "stay_period": "30 days",
+        "validity": "3 months",
+        "entry": "Single/Double",
+        "fees": "INR 2,899/-",
+        "ideal_for": "Indian passport holders attending business meetings, conferences in Nicaragua"
+      }
+    ]
+  },
+  {
+    "country": "Mozambique",
+    "visa_types": [
+      {
+        "type": "Tourist Visa on Arrival",
+        "stay_period": "30 days",
+        "entry": "Single/Double",
+        "extension": "Not allowed",
+        "fees ": "USD 50",
+        "ideal_for": "Indian citizens wishing to visit Mozambique for the purposes of tourism, sightseeing or visiting family and friends"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "10 to 15 days",
+        "validity": "30 days",
+        "entry": "Single Entry",
+        "fees ": "INR 8,499/-",
+        "ideal_for": "Indian passport holders attending business meetings, conferences in Mozambique"
+      }
+    ]
+  },
+  {
+    "country": "Sri Lanka",
+    "visa_types": [
+      {
+        "type": "30 Days Sri Lanka Tourist Visa",
+        "processing_time": "24 to 48 hours",
+        "stay_period": "Upto 30 days",
+        "validity": "6 months",
+        "entry": "Double",
+        "fees": "INR 999/-"
+      },
+      {
+        "type": "30 Days Sri Lanka Business Visa",
+        "processing_time": "24 to 48 hours",
+        "stay_period": "Upto 30 days",
+        "validity": "6 months",
+        "entry": "Multiple",
+        "fees": "INR 3,499/-"
+      }
+    ]
+  },
+  {
+    "country": "Norway",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Short Term)",
+        "processing_time": "10-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7,599/-"
+      },
+      {
+        "type": "Business Visa (Short Term)",
+        "processing_time": "10-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7,599/-"
+      }
+    ]
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "visa_types": [
+      {
+        "type": "Single Entry Visa (Short term C Visa)",
+        "processing_time": "6-7 days",
+        "stay_period": "90 days",
+        "validity": "6 months \u2013 1 year",
+        "entry": "Single",
+        "fees": "INR 4,100/-",
+        "ideal_for": "Indian passport holders who want to visit Bosnia and Herzegovina Visas for business, education training, tourism, private affairs, politics, science, sport, religion or other purposes"
+      },
+      {
+        "type": "Business Visa Multiple Entry Visa (Short term C Visa)",
+        "processing_time": "6-7 days",
+        "stay_period": "90 days",
+        "validity": "6 months \u2013 1 year",
+        "entry": "Multiple",
+        "fees": "INR 6,050/-",
+        "ideal_for": "Indian passport holders who want to visit Bosnia and Herzegovina Visas for business, education training, tourism, private affairs, politics, science, sport, religion or other purposes."
+      }
+    ]
+  },
+  {
+    "country": "Dominica",
+    "visa_types": [
+      {
+        "type": "Tourist Visa not required",
+        "stay_period": "6 months",
+        "entry": "Single",
+        "ideal_for": "Indian passport holders wishing to visit Dominica for tourism, leisure & visiting family or friends"
+      },
+      {
+        "type": "Business Visa not required",
+        "stay_period": "6 months",
+        "entry": "Single",
+        "ideal_for": "Indian passport holders wishing to visit Dominica for business purposes like attending conferences, exhibitions, seminars or meetings"
+      }
+    ]
+  },
+  {
+    "country": "Lesotho",
+    "visa_types": [
+      {
+        "type": "Single Entry Tourist eVisa (Popular)",
+        "processing_time": "3 to 4 days",
+        "stay_period": "44 days",
+        "entry": "Single",
+        "fees": "INR 11,850/-",
+        "ideal_for": "Indian passport holders wishing to visit Lesotho for tourism, sightseeing or visiting family & friends"
+      },
+      {
+        "type": "Multiple Entry Tourist eVisa",
+        "processing_time": "3 to 4 days",
+        "validity": "180 days",
+        "entry": "Multiple",
+        "fees": "INR 18,600/-",
+        "ideal_for": "Indian passport holders wishing to visit Lesotho for tourism, sightseeing or visiting family & friends"
+      },
+      {
+        "type": "Single Entry Business eVisa (Popular)",
+        "processing_time": "3 to 4 days",
+        "stay_period": "44 days",
+        "entry": "Single",
+        "fees": "INR 11,850/-",
+        "ideal_for": "Indian passport holders attending business meetings, conferences, exhibitions or seminars in Lesotho"
+      },
+      {
+        "type": "Multiple Entry Business eVisa",
+        "processing_time": "3 to 4 days",
+        "validity": "180 days",
+        "entry": "Multiple",
+        "fees": "INR 18,600/-",
+        "ideal_for": "Indian passport holders attending business meetings, conferences, exhibitions or seminars in Lesotho"
+      }
+    ]
+  },
+  {
+    "country": "Poland",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Short term)",
+        "processing_time": "10-14 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 6,199/-"
+      },
+      {
+        "type": "Business Visa (Short term)",
+        "processing_time": "10-14 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 6,199/-"
+      }
+    ]
+  },
+  {
+    "country": "Nicaragua",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Popular)",
+        "processing_time": "25 to 30 days",
+        "stay_period": "30 days",
+        "validity": "30 days",
+        "entry": "Single",
+        "fees": "INR 3,499/-",
+        "ideal_for": "Indian passport holders wishing to enter Nicaragua for tourism or visit purpose"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "25 to 30 days",
+        "stay_period": "30 days",
+        "validity": "30 days",
+        "entry": "Single",
+        "fees": "INR 3,499/-",
+        "ideal_for": "Indian passport holders attending business meetings, conferences in Nicaragua"
+      }
+    ]
+  },
+  {
+    "country": "Gambia",
+    "visa_types": [
+      {
+        "type": "Tourist Visa(Popular)",
+        "processing_time": "5 to 7 days",
+        "validity": "30 days",
+        "entry": "Single/Double",
+        "fees": "INR 9,300/-",
+        "ideal_for": "Indian passport holders who want to visit Gambia for tourism, sightseeing or visiting family and friends"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "5 to 7 days",
+        "validity": "30 days",
+        "entry": "Single/Double",
+        "fees": "INR 6,800/-",
+        "ideal_for": "Indian passport holders who want to visit Gambia for business purpose such as attending conference, seminar, participation in exhibition or commercial events"
+      }
+    ]
+  },
+  {
+    "country": "Albania",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Visa Type \u201cC\u201d -  Short stay Visa )",
+        "processing_time": "10 to 15 days",
+        "stay_period": "Upto 30 days",
+        "validity": "6 months",
+        "entry": "One/Two/Multiple",
+        "fees": "INR 4,399/-"
+      },
+      {
+        "type": "Business Visa (Visa Type \u201cC\u201d -  Short stay Visa",
+        "processing_time": "10 to 15 days",
+        "stay_period": "Upto 30 days",
+        "validity": "6 months",
+        "entry": "One/Two/Multiple",
+        "fees": "INR 4,399/-"
+      }
+    ]
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "visa_types": [
+      {
+        "type": "Tourist eVisa (Popular)",
+        "processing_time": "7-8 days",
+        "stay_period": "Upto 30 days",
+        "entry": "Single",
+        "fees": "INR 8,199/-",
+        "ideal_for": "Indian passport holders wishing to visit Antigua and Barbuda for tourism & visit purpose"
+      },
+      {
+        "type": "Business eVisa (Popular)",
+        "processing_time": "7-8 days",
+        "stay_period": "Upto 30 days",
+        "entry": "Single",
+        "fees": "INR 8,199/-",
+        "ideal_for": "Indian passport holders attending business meetings, conferences in Antigua and Barbuda"
+      }
+    ]
+  },
+  {
+    "country": "Burkina Faso",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (popular)",
+        "processing_time": "8 to 10 days",
+        "validity": "3 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 9,050/-",
+        "ideal_for": "Indian passport holders who want to visit Burkina Faso for tourism, sightseeing or visiting family and friends"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "8 to 10 days",
+        "validity": "3 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 12,950/-",
+        "ideal_for": "Indian passport holders who want to visit Burkina Faso for the purpose of business such as attending meetings, conferences, participation in exhibitions, seminars or any other commercial activities"
+      }
+    ]
+  },
+  {
+    "country": "Timor Leste",
+    "visa_types": [
+      {
+        "type": "Ordinary Visa Class I\n                             Tourist & Business Visa",
+        "processing_time": "8 to 10 days",
+        "stay_period": "90 Days",
+        "validity": "1 Year",
+        "entry": "Multiple",
+        "fees": "INR 3,600/-",
+        "ideal_for": "Indian passport holders who want to visit Timor Leste for tourism, sightseeing, visiting family and friends or attending meetings, conferences, participation in exhibitions, seminars or any other commercial activities"
+      }
+    ]
+  },
+  {
+    "country": "Zimbabwe",
+    "visa_types": [
+      {
+        "type": "30 days Tourist Visa on arrival",
+        "visa_on_arrivalindians_get_30-dayvisa_on_arrival": "Indians get 30-dayvisa on arrival",
+        "validity3_month": "3 Month",
+        "fees$30": "$30",
+        "ideal_forindian_passport_holderswishing_to_visitzimbabwe_for_tourismor_visit_purpose.": "Indian passport holderswishing to visitZimbabwe for tourismor visit purpose."
+      },
+      {
+        "type": "30 days Business Visa on arrival",
+        "visa_on_arrivalindians_get_30-dayvisa_on_arrival": "Indians get 30-dayvisa on arrival",
+        "validity3_month": "3 Month",
+        "fees$30": "$30",
+        "ideal_forindian_passport_holderswishing_to_visitzimbabwe_for_businesspurposes_like_attendingconferences,_exhibitionsor_meetings": "Indian passport holderswishing to visitZimbabwe for businesspurposes like attendingconferences, exhibitionsor meetings"
+      }
+    ]
+  },
+  {
+    "country": "Djibouti",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Popular)",
+        "processing_time": "10 to 15 days",
+        "validity": "Up to 3 months",
+        "entry": "Single",
+        "fees": "INR 5,999/-",
+        "ideal_for": "Indian passport holders wishing to enter Djibouti for tourism or visit purpose"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "10 to 15 days",
+        "stay_period": "upto 30 days",
+        "validity": "90 days",
+        "entry": "Single",
+        "fees": "INR 5,999/-",
+        "ideal_for": "Indian passport holders attending business meetings, conferences in Djibouti"
+      }
+    ]
+  },
+  {
+    "country": "South Sudan",
+    "visa_types": [
+      {
+        "type": "30 Days Entry Visa",
+        "processing_time": "5 to 6 days",
+        "validity": "1 month",
+        "entry": "Single",
+        "fees": "INR 5499/-",
+        "ideal_for": "Indian passport holders who want to visit South Sudan"
+      }
+    ]
+  },
+  {
+    "country": "Kazakhstan",
+    "visa_types": [
+      {
+        "type": "Tourist e-Visa (Popular)",
+        "processing_time": "4-5 days",
+        "stay_period": "30 days",
+        "validity": "90 days",
+        "entry": "Single",
+        "fees": "INR 5,499/-",
+        "ideal_for": "Indian passport holderswishing to visitKazakhstan with apurpose of tourism"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "4-5 days",
+        "stay_period": "30 days",
+        "validity": "90 days",
+        "entry": "Single",
+        "fees": "INR 6,999/-",
+        "ideal_for": "Indian passport holderswishing to visitKazakhstan forbusiness purpose"
+      }
+    ]
+  },
+  {
+    "country": "Brazil",
+    "visa_types": [
+      {
+        "type": "Tourist/Visitor Visa (Popular)",
+        "processing_time": "8 to 10 days",
+        "validity": "3 months",
+        "entry": "Multiple",
+        "fees": "INR 7,499/-",
+        "ideal_for": "Indian passport holders wishing to enter Brazil for the purpose of tourism or holidaying"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "8 to 10 days",
+        "validity": "3 months",
+        "entry": "Single entry",
+        "fees": "INR 7,499/-",
+        "ideal_for": "Indian passport holders participating in meetings, fairs and business events, as well as prospecting business opportunities"
+      }
+    ]
+  },
+  {
+    "country": "Costa Rica",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Popular)",
+        "processing_time": "Up to 90 days",
+        "validity": "30 days",
+        "entry": "Single",
+        "fees": "INR 5,399/-",
+        "ideal_for": "Indian passport holders wishing to enter Costa Rica for tourism or visit purpose"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "Up to 90 days",
+        "validity": "30 days",
+        "entry": "Single",
+        "fees": "INR 5,399/-",
+        "ideal_for": "Indian passport holders attending business meetings, conferences in Costa Rica"
+      }
+    ]
+  },
+  {
+    "country": "Tonga",
+    "visa_types": [
+      {
+        "type": "Tourist eVisa (Popular)",
+        "processing_time": "10 to 15 days",
+        "stay_period": "30 days",
+        "validity": "30 days",
+        "extension": "Upto 30 days",
+        "fees": "INR 6,350/-",
+        "ideal_for": "Indian passport holders wishing to visit Tonga for tourism, sightseeing or visiting family & friends"
+      }
+    ]
+  },
+  {
+    "country": "Greece",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Short term)",
+        "processing_time": "10-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7,699/-"
+      },
+      {
+        "type": "Business Visa (Short term)",
+        "processing_time": "10-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7,699/-"
+      }
+    ]
+  },
+  {
+    "country": "South Africa",
+    "visa_types": [
+      {
+        "type": "90 Days Tourist Visa",
+        "processing_time": "10-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "As per Embassy",
+        "entry": "Single/Multiple",
+        "fees": "INR 4,999 /-"
+      },
+      {
+        "type": "90 Days Business Visa",
+        "processing_time": "10-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "As per Embassy",
+        "entry": "Single/Multiple",
+        "fees": "INR 6,999 /-"
+      }
+    ]
+  },
+  {
+    "country": "Burundi",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (popular)",
+        "processing_time": "12 to 15 days",
+        "validity": "1 month",
+        "entry": "Single",
+        "fees": "INR 7,999/-",
+        "ideal_for": "Indian passport holders who want to visit Burundifor leisure purpose, sightseeing or visiting family and friends"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "12 to 15 days",
+        "validity": "1 month",
+        "entry": "Single",
+        "fees": "INR 7,999/-",
+        "ideal_for": "Indian passport holders who want to visit Burundi for the purpose of business, participation in exhibitions, commercial events"
+      }
+    ]
+  },
+  {
+    "country": "Portugal",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Short term)",
+        "processing_time": "10-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7,999/-"
+      },
+      {
+        "type": "Business Visa (Short term)",
+        "processing_time": "10-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7,999/-"
+      }
+    ]
+  },
+  {
+    "country": "Uganda",
+    "visa_types": [
+      {
+        "type": "Ordinary/Tourist eVisa (Popular)",
+        "processing_time": "3 to 4 days",
+        "validity": "90 days",
+        "entry": "Single",
+        "fees": "INR 5,499/-",
+        "ideal_for": "Indian passport holders wishing to visit Uganda for tourism, sightseeing or visiting family & friends"
+      },
+      {
+        "type": "Multiple Entry eVisa",
+        "processing_time": "8 to 10 days",
+        "validity": "6 months, 12 months",
+        "entry": "Multiple",
+        "fees": "INR 8,900/-",
+        "ideal_for": "Indian passport holders who wish to enter Uganda more than once during the period of validity"
+      },
+      {
+        "type": "24 Months Multiple Entry eVisa",
+        "processing_time": "8 to 10 days",
+        "validity": "24 months",
+        "entry": "Multiple",
+        "fees": "INR 12,400/-",
+        "ideal_for": "Indian passport holders who wish to enter Uganda more than once during the period of validity"
+      }
+    ]
+  },
+  {
+    "country": "Tunisia",
+    "visa_types": [
+      {
+        "type": "Business Visa",
+        "processing_time": "8 to 10 days",
+        "validity": "3 months",
+        "entry": "Single",
+        "fees": "INR 4,999/-",
+        "ideal_for": "Indian passport holders who want to visit Tunisia for a short visit to conduct discussions, negotiations, and/or presentations, but not to take up employment."
+      },
+      {
+        "type": "Transit Visa",
+        "processing_time": "8 to 10 days",
+        "stay_period": "24 hours",
+        "validity": "7 days",
+        "entry": "Single",
+        "fees": "INR 2,399/-",
+        "ideal_for": "Indian passport holders travelling to a third country via Tunisia."
+      },
+      {
+        "type": "Tourist Visa not required",
+        "stay_period": "3 months",
+        "entry": "Single",
+        "fees ": "Free",
+        "ideal_for": "Indian passport holders who want to visit Tunisia for Free"
+      }
+    ]
+  },
+  {
+    "country": "Dubai  Online",
+    "visa_types": [
+      {
+        "type": "48 Hours Transit Visa",
+        "processing_time": "Upto 5 days",
+        "stay_period": "2 days",
+        "validity": "30 days",
+        "entry": "Single",
+        "fees": "INR 1,999/-"
+      },
+      {
+        "type": "30 Days Tourist Visa",
+        "processing_time": "Upto 5 days",
+        "stay_period": "30 days",
+        "validity": "58 days",
+        "entry": "Single",
+        "fees": "INR 7,799/-"
+      },
+      {
+        "type": "30 Days Family Tourist Visa(Includes 2 Adults + 1 Child)",
+        "processing_time": "Upto 5 days",
+        "stay_period": "30 days",
+        "validity": "58 days",
+        "entry": "Single",
+        "fees": "INR 19,499/-"
+      },
+      {
+        "type": "96 Hours Transit Visa",
+        "processing_time": "Upto 5 days",
+        "stay_period": "4 days",
+        "validity": "30 days",
+        "entry": "Single",
+        "fees": "INR 2,999/-"
+      },
+      {
+        "type": "14 Days Tourist Visa",
+        "processing_time": "Upto 5 days",
+        "stay_period": "14 days",
+        "validity": "58 days",
+        "entry": "Single",
+        "fees": "INR 7,499/-"
+      },
+      {
+        "type": "30 Days Tourist Visa (Express)",
+        "processing_time": "Upto 48 hours",
+        "stay_period": "30 days",
+        "validity": "58 days",
+        "entry": "Single",
+        "fees": "INR 8,999/ -"
+      },
+      {
+        "type": "60 Days Tourist Visa",
+        "processing_time": "Upto 5 days",
+        "stay_period": "60 days",
+        "validity": "58 days",
+        "entry": "Single",
+        "fees": "INR 13,499/-"
+      },
+      {
+        "type": "30 Days Multiple Entry Tourist Visa",
+        "processing_time": "Upto 5 days",
+        "stay_period": "30 days",
+        "validity": "58 days",
+        "entry": "Multiple",
+        "fees": "INR 17,999/-"
+      }
+    ]
+  },
+  {
+    "country": "Seychelles",
+    "visa_types": [
+      {
+        "type": "Visitor\u2019s Permit on Arrival",
+        "stay_period": "Up to 30 days",
+        "entry": "Single",
+        "fees ": "Free of cost",
+        "visa": "Not required for Indians",
+        "ideal_for": "Indian citizens wishing to visit Seychelles for the purposes of holiday, business, visiting friends or family"
+      }
+    ]
+  },
+  {
+    "country": "Comoros",
+    "visa_types": [
+      {
+        "type": "Tourist Visa on arrival",
+        "visa_on_arrival": "Indians get 45 daysvisa on arrival",
+        "validity": "Up to 45 days",
+        "fees": "US $50",
+        "ideal_for": "Indian passport holders wishing to visit Comorosfor tourism or visit purpose."
+      },
+      {
+        "type": "Business Visa on arrival",
+        "visa_on_arrival": "Indians get 45 daysvisa on arrival",
+        "validity": "4 months",
+        "fees": "US $50",
+        "ideal_for": "Indian passport holders wishing to visit Comoros for business purposes like attending conferences, exhibitions or meetings"
+      }
+    ]
+  },
+  {
+    "country": "Angola",
+    "visa_types": [
+      {
+        "type": "Business Visa",
+        "processing_time": "10 to 15 days",
+        "validity": "60 days",
+        "stay_period30_days": "30 days",
+        "entry": "Single",
+        "fees": "INR 6,399/-",
+        "ideal_for": "Indian passport holders attending business meetings, conferences in Angola"
+      },
+      {
+        "type": "Tourist eVisa(popular)",
+        "processing_time": "Upto 48 hours",
+        "stay_period30_days": "30 days",
+        "validity": "60 days",
+        "entry": "Single/Multiple",
+        "fees": "INR 9,499/-",
+        "ideal_for": "Indian passport holders wishing to enter Angola forrecreational, sports or cultural visit"
+      }
+    ]
+  },
+  {
+    "country": "Mauritius",
+    "visa_types": [
+      {
+        "type": "Tourist Visa on Arrival",
+        "stay_period": "60 days",
+        "entry": "Single entry",
+        "fees ": "Free",
+        "ideal_for": "Indian citizens wishing to visit Mauritiusfor the purposes of tourism, sightseeing or visiting relatives and friends"
+      },
+      {
+        "type": "Business Visa on Arrival",
+        "stay_period": "60 days",
+        "entry": "Single Entry",
+        "fees ": "Free",
+        "ideal_for": "Indian passport holders who want to visit Mauritius for the purpose of business such as attending meetings, conferences, participation in exhibitions, seminars or any other commercial activities"
+      }
+    ]
+  },
+  {
+    "country": "Moldova",
+    "visa_types": [
+      {
+        "type": "Tourist eVisa (Popular)",
+        "processing_time": "10 to 20 days",
+        "stay_period": "Upto 90 days",
+        "validity": "As per Embassy",
+        "entry": "Single/Double/Multiple",
+        "fees": "INR 4,899/-",
+        "ideal_for": "Indian passport holders wishing to visit Moldova for tourism & visit purpose"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "10 to 20 days",
+        "stay_period": "Upto 90 days",
+        "validity": "As per Embassy",
+        "entry": "Single/Double/Multiple",
+        "fees": "INR 4,899/-",
+        "ideal_for": "Indian passport holders wishing to visit Moldova for business purpose"
+      }
+    ]
+  },
+  {
+    "country": "Ghana",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Popular)",
+        "processing_time": "3-5 days",
+        "validity": "3 months",
+        "entry": "Single",
+        "fees": "INR 9,899/-",
+        "ideal_for": "Indian passport holderswishing to tour Ghana"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "3-5 days",
+        "validity": "3 months",
+        "entry": "Single",
+        "fees": "INR 9,899/-",
+        "ideal_for": "Indian passport holdersattending businessmeetings, conferencesin Ghana"
+      }
+    ]
+  },
+  {
+    "country": "Iraq",
+    "visa_types": [
+      {
+        "type": "Business Visa",
+        "processing_time": "8 to 10 days",
+        "validity": "3 months",
+        "entry": "Single",
+        "fees": "INR 5,299/-",
+        "ideal_for": "Indian passport holders who want to visit Iraq for business purpose such as attending conference, seminar, participation in exhibition or commercial events."
+      }
+    ]
+  },
+  {
+    "country": "Kenya",
+    "visa_types": [
+      {
+        "type": "Single Entry  Tourist Visa",
+        "processing_time": "Up to 2 days",
+        "stay_period": "As per Embassy",
+        "validity": "3 months",
+        "entry": "Single",
+        "fees": "INR 5,999/-"
+      },
+      {
+        "type": "Single Entry Business Visa",
+        "processing_time": "Up to 2 days",
+        "stay_period": "72 hours",
+        "validity": "3 months",
+        "entry": "Single",
+        "fees": "INR 5,999/-"
+      }
+    ]
+  },
+  {
+    "country": "Spain",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Short term)",
+        "processing_time": "15-20 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 6,999/-"
+      },
+      {
+        "type": "Business Visa (Short term)",
+        "processing_time": "15-20 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 6,999/-"
+      }
+    ]
+  },
+  {
+    "country": "Georgia",
+    "visa_types": [
+      {
+        "type": "Georgia Visa (Popular)",
+        "processing_time": "4 to 5 days",
+        "stay_period": "30 days",
+        "validity": "120 days",
+        "entry": "Multiple",
+        "fees": "INR 2,700/-",
+        "ideal_for": "Indian passport holders wishing to visit Georgia for tourism, sightseeing, visiting family & friends or to attendbusiness meetings and negotiations"
+      }
+    ]
+  },
+  {
+    "country": "Central African Republic",
+    "visa_types": [
+      {
+        "type": "Single Entry Visa",
+        "processing_time": "5 to 6 days",
+        "validity": "3 months",
+        "entry": "Single",
+        "fees": "INR 11,900/-",
+        "ideal_for": "Indian passport holders who want to visit Central African Republic for tourism, sightseeing or visiting family and friends"
+      },
+      {
+        "type": "Multiple Entry Visa",
+        "processing_time": "5 to 6 days",
+        "validity": "6 months \u2013 1 year",
+        "entry": "Multiple",
+        "fees": "INR 15,600/-",
+        "ideal_for": "Indian passport holders who want to visit Central African Republic for the purpose of business such as attending meetings, conferences, participation in exhibitions, seminars or any other commercial activities"
+      }
+    ]
+  },
+  {
+    "country": "Mexico",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Popular)",
+        "processing_time": "2 to 3 days",
+        "validity": "Upto 180 days",
+        "entry": "Single",
+        "fees": "INR 3,850/-",
+        "ideal_for": "Indian passport holders wishing to enter Mexico for tourism, sightseeing or visiting relatives and friends"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "2 to 3 days",
+        "validity": "Up to 90 days",
+        "entry": "Single",
+        "fees": "INR 3,850/-",
+        "ideal_for": "Indian passport holders wishing to enter Mexico for business meetings, conferences, seminars or other commercial activities"
+      }
+    ]
+  },
+  {
+    "country": "Colombia",
+    "visa_types": [
+      {
+        "type": "Tourist/Visitor Visa (Popular)",
+        "processing_time": "5 to 6 days",
+        "validity": "Up to 90 days",
+        "entry": "Single/Multiple",
+        "fees": "INR 13,499/-",
+        "ideal_for": "Indian passport holders wishing to enter Colombia for the purpose of tourism or holidaying"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "5 to 6 days",
+        "validity": "Up to 90 days",
+        "entry": "Single/Multiple",
+        "fees": "INR 16,499/-",
+        "ideal_for": "Indian passport holders participating in meetings, fairs and business events, as well as prospecting business opportunities"
+      }
+    ]
+  },
+  {
+    "country": "France",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Short term)",
+        "processing_time": "5-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7199/-"
+      },
+      {
+        "type": "Business Visa (Short term)",
+        "processing_time": "5-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7199/-"
+      }
+    ]
+  },
+  {
+    "country": "Finland",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Short term)",
+        "processing_time": "10-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7,699/-"
+      },
+      {
+        "type": "Business Visa (Short term)",
+        "processing_time": "10-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7,699/-"
+      }
+    ]
+  },
+  {
+    "country": "Puerto Rico",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (popular)",
+        "processing_time": "10 to 15 days",
+        "validity": "90 days",
+        "entry": "Single/Multiple",
+        "visa_fee": "INR 8,350/-",
+        "ideal_for": "Indian passport holders who want to visit Puerto Ricofor tourism, sightseeing or visiting family and friends"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "10 to 15 days",
+        "validity": "90 days",
+        "entry": "Single/Multiple",
+        "fees": "INR 8,350/-",
+        "ideal_for": "Indian passport holders who want to visit Puerto Rico for the purpose of business such as attending meetings, conferences, participation in exhibitions, seminars or any other commercial activities"
+      }
+    ]
+  },
+  {
+    "country": "Senegal",
+    "visa_types": [
+      {
+        "type": "90 days Tourist Visa on arrival",
+        "visa_on_arrival": "Indians get 90-dayvisa on arrival",
+        "validity": "3 months",
+        "ideal_for": "Indian passport holders wishing to visit Senegal for tourism or visit purpose"
+      },
+      {
+        "type": "90 days Business Visa on arrival",
+        "visa_on_arrival": "Indians get 90-dayvisa on arrival",
+        "validity": "3 months",
+        "ideal_for": "Indian passport holders wishing to visit Senegal for business purposes like attending conferences, exhibitions or meetings"
+      }
+    ]
+  },
+  {
+    "country": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+    "visa_types": [
+      {
+        "type": "Tourist Visa",
+        "processing_time": "5-7 days",
+        "stay_period": "30 days",
+        "validity": "90 days",
+        "entry": "Single",
+        "fees": "INR 7,399/",
+        "ideal_for": "Indian passport holderswishing to go ona leisure trip toS\u00e3o Tom\u00e9 andPr\u00edncipe."
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "5-7 days",
+        "stay_period": "30 days",
+        "validity": "90 days",
+        "entry": "Single",
+        "fees": "INR 7,399/",
+        "ideal_for": "Indian passport holderswishing to travelto S\u00e3o Tom\u00e9 andPr\u00edncipe for workor business."
+      }
+    ]
+  },
+  {
+    "country": "Bangladesh",
+    "visa_types": [
+      {
+        "type": "Tourist Visa",
+        "processing_time": "5-7 days",
+        "stay_period": "Upto 60 days",
+        "entry": "Single / Double",
+        "fees": "INR 1,299/-"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "5-7 days",
+        "stay_period": "Upto 180 days",
+        "entry": "Single / Multiple",
+        "fees": "INR 1,299/-"
+      }
+    ]
+  },
+  {
+    "country": "Ethiopia",
+    "visa_types": [
+      {
+        "type": "90 days Tourist e-Visa (Popular)",
+        "processing_time": "2-3 days",
+        "stay_period": "30 days",
+        "validity": "Upto 90 days",
+        "entry": "Single",
+        "fees": "INR 5,999 /-",
+        "ideal_for": "Indian passport holderswishing to visitEthiopia for tourismor visit purpose"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "2-3 days",
+        "stay_period": "30 days",
+        "validity": "30 days",
+        "entry": "Single",
+        "fees": "INR 5,999/-",
+        "ideal_for": "Indian passport holderswishing to visitEthiopia for conference."
+      }
+    ]
+  },
+  {
+    "country": "Algeria",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Popular)",
+        "processing_time": "5 to 6 days",
+        "stay_period": "30 days",
+        "validity": "30 days",
+        "entry": "Single",
+        "fees": "INR 5,299/-",
+        "ideal_for": "Indian passport holderswishing to tour Algeria"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "5 to 6 days",
+        "stay_period": "30 days",
+        "validity": "30 days",
+        "entry": "Single",
+        "fees": "INR 5,299/-",
+        "ideal_for": "Indian passport holdersattending businessmeetings, conferencesin Algeria"
+      }
+    ]
+  },
+  {
+    "country": "Cabo Verde",
+    "visa_types": [
+      {
+        "type": "Tourist Visa on Arrival",
+        "stay_period": "30 days",
+        "entry": "Single",
+        "fees": "EUR25",
+        "ideal_for": "Indian citizens wishing to visit Cape Verde for the purposes of tourism& sightseeing"
+      },
+      {
+        "type": "Business Visa on Arrival",
+        "stay_period": "30 days",
+        "entry": "Single",
+        "fees": "EUR25",
+        "ideal_for": "Indian citizens wishing to visit Cape Verde for business purpose"
+      }
+    ]
+  },
+  {
+    "country": "Benin",
+    "visa_types": [
+      {
+        "type": "Tourist eVisa (Popular)",
+        "processing_time": "Up to 48 hours",
+        "stay_period": "30 days",
+        "validity": "3 months",
+        "entry": "Single",
+        "fees": "INR 4,899/-",
+        "ideal_for": "Indian passport holders wishing to visit Benin for tourism, sightseeing or visiting family & friends"
+      },
+      {
+        "type": "Business eVisa",
+        "processing_time": "Up to 48 hours",
+        "stay_period": "30 days",
+        "validity": "6 months",
+        "entry": "Single",
+        "fees": "INR 4,899/-",
+        "ideal_for": "Indian passport holders attending business meetings, conferences, exhibitions or seminars in Benin"
+      }
+    ]
+  },
+  {
+    "country": "Peru",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (popular)",
+        "processing_time": "4 to 5 days",
+        "validity": "183 days",
+        "entry": "Single",
+        "fees": "INR 3,399/-",
+        "ideal_for": "Indian passport holders wishing to visit Peru for tourism, visit or relaxation"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "4 to 5 days",
+        "validity": "12 months",
+        "stay_period": "183 days",
+        "entry": "Multiple",
+        "fees": "INR 3,399/-",
+        "ideal_for": "Indian passport holders wishing to travel to Peru for solely business purpose"
+      }
+    ]
+  },
+  {
+    "country": "Venezuela",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Popular)",
+        "processing_time": "10-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "As per Embassy",
+        "entry": "Single/Multiple",
+        "fees": "INR 3,999/-"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "10-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "As per Embassy",
+        "entry": "Single/Multiple",
+        "fees": "INR 3,999/-"
+      }
+    ]
+  },
+  {
+    "country": "Slovakia",
+    "visa_types": [
+      {
+        "type": "Tourist Visa  (Short term)",
+        "processing_time": "10 to 15 days",
+        "stay_period": "Up to 90 days",
+        "validity": "6 months",
+        "entry": "Multiple",
+        "fees": "INR 7,199/-",
+        "ideal_for": "Indian passport holders wishing to enter Slovakiafor tourism, sightseeing or visiting family or friends"
+      },
+      {
+        "type": "Business Visa(Short term)",
+        "processing_time": "10 to 15 days",
+        "validity": "6 months",
+        "stay_period": "Up to 90 days",
+        "entry": "Multiple",
+        "fees": "INR 7,199/-",
+        "ideal_for": "Indian passport holders wishing to enter Slovakia for business purpose like attending meeting, conference, exhibition or seminar"
+      }
+    ]
+  },
+  {
+    "country": "Andorra",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Short Term)",
+        "processing_time": "10 to 15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Multiple",
+        "fees": "INR 7,199/-",
+        "ideal_for": "Indian passport holders wishing to enter Andorra for tourism purpose like leisure, visiting family or friends"
+      },
+      {
+        "type": "Business Visa(Short term)",
+        "processing_time": "10 to 15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Multiple",
+        "fees": "INR 7,199/-",
+        "ideal_for": "Indian passport holders wishing to enter Andorra for tourism purpose like leisure, visiting family or friends"
+      }
+    ]
+  },
+  {
+    "country": "Namibia",
+    "visa_types": [
+      {
+        "type": "Single Entry Visitor Visa",
+        "processing_time": "3 to 4 days",
+        "validity": "3 months",
+        "entry": "Single",
+        "fees": "INR 3,750/-",
+        "ideal_for": "Indian passport holders who want to visit Namibiafor tourism, sightseeing,  visiting family and friends or the purpose of business such as attending meetings, conferences, participation in exhibitions, seminars or any other commercial activities"
+      },
+      {
+        "type": "Multiple Entry Visitor Visa",
+        "processing_time": "3 to 4 days",
+        "validity": "3 months",
+        "entry": "Multiple",
+        "fees": "INR 5,900/-",
+        "ideal_for": "Indian passport holders who want to visit Namibiafor tourism, sightseeing,  visiting family and friends or the purpose of business such as attending meetings, conferences, participation in exhibitions, seminars or any other commercial activities"
+      }
+    ]
+  },
+  {
+    "country": "Republic of Congo",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Popular)",
+        "processing_time": "10-12 days",
+        "stay_period": "1 Month",
+        "validity": "1 Month",
+        "entry": "Single",
+        "fees": "INR 7,199/"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "10-12 days",
+        "stay_period": "1 Month",
+        "validity": "1 Month",
+        "entry": "Single",
+        "fees": "INR 7,199/"
+      }
+    ]
+  },
+  {
+    "country": "Solomon Island",
+    "visa_types": [
+      {
+        "type": "Visitor Visa",
+        "processing_time": "10 to 15 days",
+        "validity": "3 months",
+        "entry": "Single",
+        "fees": "INR 13,250/-",
+        "ideal_for": "Indian passport holders who want to visit Solomon Islands for tourism, sightseeing or visiting family and friends"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "10 to 15 days",
+        "validity": "3 months",
+        "entry": "Single",
+        "fees": "INR 13,250/-",
+        "ideal_for": "Indian passport holders who want to visit Solomon Islands for the purpose of business such as attending meetings, conferences, participation in exhibitions, seminars or any other commercial activities"
+      }
+    ]
+  },
+  {
+    "country": "Nauru",
+    "visa_types": [
+      {
+        "type": "Tourist Visa",
+        "processing_time": "6 to 7 days",
+        "validity": "30 days",
+        "entry": "Multiple",
+        "fees": "INR 3,600/-",
+        "ideal_for": "Indian passport holders who want to visit Nauru for tourism, sightseeing or visiting family and friends"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "6 to 7 days",
+        "validity": "30 days",
+        "entry": "Multiple",
+        "fees": "INR 3,600/-",
+        "ideal_for": "Indian passport holders who want to visit Nauru for the purpose of business such as attending meetings, conferences, participation in exhibitions, seminars or any other commercial activities"
+      }
+    ]
+  },
+  {
+    "country": "Hong Kong",
+    "visa_types": [
+      {
+        "type": "Pre-Arrival Registration (PAR)",
+        "processing_time": "Upto 24 hours",
+        "stay_period": "14 days",
+        "validity": "6 months",
+        "entry": "Multiple",
+        "fees": "INR 999/-"
+      }
+    ]
+  },
+  {
+    "country": "Philippines",
+    "visa_types": [
+      {
+        "type": "Single Entry Visa",
+        "visa_type": "Tourist/Business",
+        "processing_time": "8-10 days",
+        "stay_period": "Upto 59 days",
+        "validity": "3 months",
+        "entry": "Single",
+        "fees": "INR 8,499/-"
+      },
+      {
+        "type": "Multiple Entry Business Visa",
+        "visa_type": "Business",
+        "processing_time": "8-10 days",
+        "stay_period": "Upto 59 days",
+        "validity": "6 months/1 year",
+        "entry": "Multiple",
+        "fees": "INR 9,999/-"
+      }
+    ]
+  },
+  {
+    "country": "Myanmar",
+    "visa_types": [
+      {
+        "type": "Tourist",
+        "processing_time": "Up to 3 days",
+        "stay_period": "28 days",
+        "validity": "90 days",
+        "entry": "Single",
+        "fees": "INR 4,999/-"
+      },
+      {
+        "type": "Tourist - Express",
+        "processing_time": "Up to 24 hours",
+        "stay_period": "28 days",
+        "validity": "90 days",
+        "entry": "Single",
+        "fees": "INR 5,399/-"
+      },
+      {
+        "type": "Business",
+        "processing_time": "Up to 3 days",
+        "stay_period": "70 days",
+        "validity": "90 days",
+        "entry": "Single",
+        "fees": "INR 6,299/-"
+      }
+    ]
+  },
+  {
+    "country": "Togo",
+    "visa_types": [
+      {
+        "type": "Single Entry Visa",
+        "processing_time": "3 to 4 days",
+        "validity": "Up to 90 days",
+        "entry": "Single",
+        "fees": "INR 3,899/-",
+        "ideal_for": "Indian passport holders wishing to enter Togo for tourism, business, short visits etc"
+      },
+      {
+        "type": "Multiple Entry Visa",
+        "processing_time": "3 to 4 days",
+        "validity": "Up to 90 days",
+        "entry": "Multiple",
+        "fees": "INR 5,899/-",
+        "ideal_for": "Indian passport holders wishing to enter Togofor tourism, business, short visits etc"
+      }
+    ]
+  },
+  {
+    "country": "Guinea",
+    "visa_types": [
+      {
+        "type": "Tourist Visa",
+        "processing_time": "4 to 5 days",
+        "validity": "1 month",
+        "entry": "Single",
+        "fees": "INR 7,999/-",
+        "ideal_for": "Indian passport holders who want to visit Guineafor leisure purpose, sightseeing or visiting family and friends"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "4 to 5 days",
+        "validity": "30 days",
+        "entry": "Single",
+        "fees": "INR 7,999/-",
+        "ideal_for": "Indian passport holders who want to visit Guinea for the purpose of business, participation in exhibitions, commercial events"
+      }
+    ]
+  },
+  {
+    "country": "United Kingdomraine",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Popular)",
+        "processing_time": "10-30 days",
+        "stay_period": "90 days",
+        "validity": "180 days",
+        "entry": "Single",
+        "fees": "INR 9,299/-"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "10-30 days",
+        "stay_period": "90 days",
+        "validity": "180 days",
+        "entry": "Multiple",
+        "fees": "INR 12,299/-"
+      }
+    ]
+  },
+  {
+    "country": "Tajikistan",
+    "visa_types": [
+      {
+        "type": "Tourist/Private eVisa (Popular)",
+        "processing_time": "4 to 5 days",
+        "stay_period": "Up to 45 days",
+        "validity": "90 days",
+        "entry": "Single/Multiple",
+        "fees": "INR 5,199/-",
+        "ideal_for": "Indian passport holders wishing to visit Tajikistan for tourism, sightseeing or visiting family & friends"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "4 to 5 days",
+        "validity": "90 days",
+        "stay_period": "Up to 45 days",
+        "entry": "Single/Multiple",
+        "fees": "INR 5,199/-",
+        "ideal_for": "Indian passport holders attending business meetings, conferences, exhibitions or seminars in Tajikistan"
+      }
+    ]
+  },
+  {
+    "country": "Bermuda",
+    "visa_types": [
+      {
+        "type": "Tourist Visa",
+        "processing_time": "10 to 15 days",
+        "stay_period": "21 days",
+        "validity": "3 months",
+        "entry": "Single/Multiple",
+        "fees": "Available on request",
+        "ideal_for": "Indian passport holders who want to visit Bermuda for tourism, sightseeing or visiting family and friends"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "10 to 15 days",
+        "stay_period": "21 days",
+        "validity": "3 months",
+        "entry": "Single/Multiple",
+        "fees": "Available on request",
+        "ideal_for": "Indian passport holders who want to visit Bermuda for the purpose of business such as attending meetings, conferences, participation in exhibitions, seminars or any other commercial activities"
+      }
+    ]
+  },
+  {
+    "country": "Japan",
+    "visa_types": [
+      {
+        "type": "Tourist Visa",
+        "processing_time": "4-5 days",
+        "stay_period": "As per Embassy",
+        "validity": "Upto 90 days",
+        "entry": "Single/Multiple",
+        "fees": "INR 4,999/-"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "4-5 days",
+        "stay_period": "As per Embassy",
+        "validity": "Upto 90 days",
+        "entry": "Single/Multiple",
+        "fees": "INR 4,999/-"
+      }
+    ]
+  },
+  {
+    "country": "Latvia",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Short term)",
+        "processing_time": "10-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7,799/-"
+      },
+      {
+        "type": "Business Visa (Short term)",
+        "processing_time": "10-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7,799/-"
+      }
+    ]
+  },
+  {
+    "country": "Slovenia",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Short term)",
+        "processing_time": "10-15 days",
+        "validity": "90 days",
+        "entry": "Single/Multiple",
+        "fees": "INR 7,599/-"
+      },
+      {
+        "type": "Business Visa (Short term)",
+        "processing_time": "10-15 days",
+        "validity": "90 days",
+        "entry": "Single/Multiple",
+        "fees": "INR 7,599/-"
+      }
+    ]
+  },
+  {
+    "country": "United Arab Emirates",
+    "visa_types": [
+      {
+        "type": "14 Days Tourist Visa",
+        "processing_time": "Upto 5 days",
+        "stay_period": "14 days",
+        "validity": "58 days",
+        "entry": "Single",
+        "fees": "INR 6,999/-"
+      },
+      {
+        "type": "14 Days Tourist Visa (Express)",
+        "processing_time": "Upto 48 hours",
+        "stay_period": "14 days",
+        "validity": "58 days",
+        "entry": "Single",
+        "fees": "INR 7,999/-"
+      }
+    ]
+  },
+  {
+    "country": "South Korea",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Short term)",
+        "processing_time": "5-10 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single",
+        "fees": "INR 7,999 /-"
+      },
+      {
+        "type": "Business Visa (Short term)",
+        "processing_time": "5-10 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single",
+        "fees": "INR 7,999 /-"
+      }
+    ]
+  },
+  {
+    "country": "San Marino",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Short term)",
+        "processing_time": "10-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7,199/-"
+      },
+      {
+        "type": "Business Visa (Short term)",
+        "processing_time": "10-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7,999/-"
+      }
+    ]
+  },
+  {
+    "country": "Indonesia",
+    "visa_types": [
+      {
+        "type": "Tourist Visa",
+        "stay_period": "30 days",
+        "entry": "Single",
+        "visa_fee": "8,999/-",
+        "extension": "Not permitted",
+        "ideal_for": "Indian passport holders wishing to visit Indonesia for tourism, leisure & visiting family or friendsIndian passport holders who want to visit Indonesiafor tourism, sightseeing or visiting family and friends."
+      },
+      {
+        "type": "Business Visa",
+        "stay_period": "30 days",
+        "entry": "Single",
+        "visa_fee": "8,999/-",
+        "extension": "Not permitted",
+        "ideal_for": "Indian passport holders wishing to visit Indonesia for business purposes like attending conferences, exhibitions, seminars or meetings"
+      }
+    ]
+  },
+  {
+    "country": "Afghanistan",
+    "visa_types": [
+      {
+        "type": "30 Days Tourist Visa",
+        "processing_time": "05 to 07 hours",
+        "stay_period": "Up to 30 days",
+        "validity": "6 months",
+        "entry": "Single",
+        "fees": "INR 999/-"
+      },
+      {
+        "type": "30 Days Business Visa",
+        "processing_time": "05 to 07 hours",
+        "stay_period": "Up to 30 days",
+        "validity": "6 months",
+        "entry": "Single",
+        "fees": "INR 999/-"
+      },
+      {
+        "type": "30 Days Visit Visa",
+        "processing_time": "05 to 07 hours",
+        "stay_period": "Up to 30 days",
+        "validity": "6 months",
+        "entry": "Single",
+        "fees": "INR 999/-"
+      }
+    ]
+  },
+  {
+    "country": "Saint Lucia",
+    "visa_types": [
+      {
+        "type": "Single Entry Visitor Visa",
+        "processing_time": "4 to 5 days",
+        "validity": "3 months",
+        "entry": "Single",
+        "fees": "INR 4,899/-",
+        "ideal_for": "Indian passport holders wishing to enter Saint Lucia for tourism, business, short visits etc"
+      },
+      {
+        "type": "Multiple Entry Visitor Visa",
+        "processing_time": "4 to 5 days",
+        "validity": "1 year",
+        "entry": "Multiple",
+        "fees": "INR 6,799/-",
+        "ideal_for": "Indian passport holders wishing to enter Saint Lucia for tourism, business, short visits etc"
+      }
+    ]
+  },
+  {
+    "country": "Estonia",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Short term)",
+        "processing_time": "10-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7,999/-"
+      },
+      {
+        "type": "Business Visa (Short term)",
+        "processing_time": "10-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7,999/-"
+      }
+    ]
+  },
+  {
+    "country": "Turkey",
+    "visa_types": [
+      {
+        "type": "30 days eVisa",
+        "processing_time": "3-5 days",
+        "stay_period": "Upto 30 days",
+        "validity": "6 months",
+        "entry": "Single",
+        "purpose": "Tourist/Business",
+        "fees": "INR 5,499 /-"
+      }
+    ]
+  },
+  {
+    "country": "Samoa",
+    "visa_types": [
+      {
+        "type": "Visitor\u2019s Permit on Arrival",
+        "stay_period": "90 days",
+        "entry": "Single",
+        "fees ": "SAT 200.00",
+        "ideal_for": "Indian citizens wishing to visit Samoa for the purposes of tourism, sightseeing, business or visiting friends or family"
+      }
+    ]
+  },
+  {
+    "country": "Belarus",
+    "visa_types": [
+      {
+        "type": "Short-term Visa",
+        "processing_time": "5 to 6 days",
+        "validity": "3 months",
+        "entry": "Single/Double/Multiple",
+        "fees": "INR 6,199/-",
+        "ideal_for": "Indian passport holders who want to visit Belarus for tourism, business activates, visiting family and friends"
+      },
+      {
+        "type": "Multiple Entry Visitor Visa",
+        "processing_time": "20 to 25 days",
+        "validity": "6 months",
+        "entry": "Multiple",
+        "fees": "INR 15,899/-",
+        "ideal_for": "Indian passport holders wishing to enter Belarus for tourism, business, short visits etc"
+      }
+    ]
+  },
+  {
+    "country": "Saudi Arabia",
+    "visa_types": [
+      {
+        "type": "90 Days Umrah Visa",
+        "processing_time": "2 to 3 days",
+        "stay_period": "90 Days",
+        "validity": "Up to 3 months",
+        "entry": "Single",
+        "fees": "INR 24,999/-"
+      },
+      {
+        "type": "30 Days Tourist Visa",
+        "processing_time": "7 to 10 days",
+        "stay_period": "30 days",
+        "validity": "Up to 3 months",
+        "entry": "Single"
+      },
+      {
+        "type": "30 Days Business Visa",
+        "processing_time": "7 to 10 days",
+        "stay_period": "30 days",
+        "validity": "Up to 3 months",
+        "entry": "Single"
+      },
+      {
+        "type": "90 Days Family Visit Visa",
+        "processing_time": "12 to 15 days",
+        "stay_period": "90 days",
+        "validity": "Up to 3 months",
+        "entry": "Single"
+      },
+      {
+        "type": "1 Year Family Visit Visa",
+        "processing_time": "12 to 15 days",
+        "stay_period": "365 days",
+        "validity": "Up to 3 months",
+        "entry": "Multiple"
+      }
+    ]
+  },
+  {
+    "country": "Pakistan",
+    "visa_types": [
+      {
+        "type": "Visitor Visa",
+        "processing_time": "30-35 days",
+        "validity": "Upto 30 days",
+        "entry": "Single",
+        "fees": "INR 1,599/",
+        "ideal_for": "Indian passport holderswishing to tourPakistan"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "30-35 days",
+        "validity": "Upto 30 days",
+        "entry": "Single",
+        "fees": "INR 1,599/",
+        "ideal_for": "Indian passport holdersattending businessmeetings, conferencesin Pakistan"
+      }
+    ]
+  },
+  {
+    "country": "Iceland",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Short term)",
+        "processing_time": "10-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7,699/-"
+      },
+      {
+        "type": "Business Visa (Short term)",
+        "processing_time": "10-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7,699/-"
+      }
+    ]
+  },
+  {
+    "country": "Niger",
+    "visa_types": [
+      {
+        "type": "Tourist Visa",
+        "processing_time": "10 to 12 days",
+        "validity": "3 months",
+        "entry": "Single/Multiple",
+        "fees ": "INR 7,350/-",
+        "ideal_for": "Indian passport holders who want to visit Niger for tourism, sightseeing or visiting family and friends"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "10 to 12 days",
+        "validity": "3 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7,350/-",
+        "ideal_for": "Indian passport holders who want to visit Niger for the purpose of business such as attending meetings, conferences, participation in exhibitions, seminars or any other commercial activities"
+      }
+    ]
+  },
+  {
+    "country": "united states of america",
+    "visa_types": [
+      {
+        "type": "10 Years US Tourist Visa (B2)",
+        "processing_time": "3-4 days after interview",
+        "validity": "Up to 10 years",
+        "stay_period": "Up to 6 months",
+        "entry": "Multiple",
+        "fees": "INR 18,299/-"
+      },
+      {
+        "type": "10 Years US Business Visa (B1)",
+        "processing_time": "3-4 days after interview",
+        "validity": "Up to 10 years",
+        "stay_period": "Up to 6 months",
+        "entry": "Multiple",
+        "fees": "INR 18,299/-"
+      }
+    ]
+  },
+  {
+    "country": "Holy See",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Short term)",
+        "processing_time": "10 to 15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7,199/-",
+        "ideal_for": "Indian passport holders who want to visit Holy See for tourism, sightseeing or visiting family and friends"
+      },
+      {
+        "type": "Business Visa (Short term)",
+        "processing_time": "10 to 15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7199/-",
+        "ideal_for": "Indian passport holders who want to visit Holy Seefor the purpose of business such as attending meetings, conferences, participation in exhibitions, seminars or any other commercial activities"
+      }
+    ]
+  },
+  {
+    "country": "Sierra Leone",
+    "visa_types": [
+      {
+        "type": "Tourist Visa",
+        "processing_time": "4 to 5 days",
+        "validity": "Upto 1 Year",
+        "entry": "Single/Multiple",
+        "fees": "INR 6,799/-",
+        "ideal_for": "Indian passport holders who want to visit Sierra Leonefor tourism, sightseeing or visiting family and friends"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "4 to 5 days",
+        "validity": "Up to 1 year",
+        "entry": "Single/Multiple",
+        "fees": "INR 6,799/-",
+        "ideal_for": "Indian passport holders who want to visit Sierra Leone for business purpose such as attending conference, seminar, participation in exhibition or commercial events"
+      }
+    ]
+  },
+  {
+    "country": "Guyana",
+    "visa_types": [
+      {
+        "type": "Tourist Visa",
+        "processing_time": "8 to 9 days",
+        "stay_period": "30 days",
+        "validity": "30 days",
+        "entry": "Single",
+        "fees": "INR 6,350/-",
+        "ideal_for": "Indian passport holders who want to visit Guyanafor tourism, sightseeing or visiting family and friends"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "8 to 9 days",
+        "stay_period": "30 days",
+        "validity": "30 days",
+        "entry": "Multiple",
+        "fees": "INR 8,450/-",
+        "ideal_for": "Indian passport holders who want to visit Guyanafor the purpose of business such as attending meetings, conferences, participation in exhibitions, seminars or any other commercial activities"
+      }
+    ]
+  },
+  {
+    "country": "Fiji",
+    "visa_types": [
+      {
+        "type": "Tourist Visa on arrival",
+        "visa_on_arrival": "Indians get up to4 months visa on arrival",
+        "validity": "4 months",
+        "ideal_for": "Indian passport holders wishing to visit Fiji for tourism or visit purpose."
+      },
+      {
+        "type": "Business Visa on arrival",
+        "visa_on_arrival": "Indians get up to4 months visa on arrival",
+        "validity": "4 months",
+        "ideal_for": "Indian passport holders wishing to visit Fiji for business purposes like attending conferences, exhibitions or meetings"
+      }
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "visa_types": [
+      {
+        "type": "Malaysia Digital Arrival Card (MDAC)",
+        "processing_time": "24 hours",
+        "stay_period": "30 days",
+        "validity": "1 months",
+        "visa_category": "Tourist / Business",
+        "entry": "Single",
+        "fees": "INR 499/-"
+      },
+      {
+        "type": "30 Days Malaysia Sticker Visa",
+        "processing_time": "4-5 days",
+        "stay_period": "30 days",
+        "validity": "Upto 12 months",
+        "visa_category": "Tourist / Business",
+        "entry": "Single / Multiple",
+        "fees": "INR 7,099/-"
+      }
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Short term)",
+        "processing_time": "10-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7,199/-"
+      },
+      {
+        "type": "Business Visa (Short term)",
+        "processing_time": "10-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7,199/-"
+      }
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "visa_types": [
+      {
+        "type": "Tourist Visa",
+        "processing_time": "4 to 5 days",
+        "validity": "90 days",
+        "entry": "Multiple",
+        "fees": "INR 999/-",
+        "ideal_for": "Indian passport holders who want to visit Uruguay for tourism, sightseeing or visiting family and friends"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "4 to 5 days",
+        "validity": "90 days",
+        "entry": "Multiple",
+        "fees": "INR 999/-",
+        "ideal_for": "Indian passport holders who want to visit Uruguay for the purpose of business such as attending meetings, conferences, participation in exhibitions, seminars or any other commercial activities"
+      }
+    ]
+  },
+  {
+    "country": "Malta",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Short term)",
+        "processing_time": "10-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7,899/-"
+      },
+      {
+        "type": "Business Visa (Short term)",
+        "processing_time": "10-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7,899/-"
+      }
+    ]
+  },
+  {
+    "country": "Vanuatu",
+    "visa_types": [
+      {
+        "type": "Tourist Visa on Arrival",
+        "stay_period": "30 days",
+        "entry": "Single",
+        "extension": "Up to 4 months from arrival",
+        "fees ": "As per Embassy",
+        "ideal_for": "Indian citizens wishing to visit Vanuatu for the purposes of tourism or visit relatives and friends"
+      },
+      {
+        "type": "Business Visa on Arrival",
+        "stay_period": "30 days",
+        "entry": "Single",
+        "extension": "Up to 4 months from arrival",
+        "fees ": "As per Embassy",
+        "ideal_for": "Indian citizens wishing to visit Vanuatu for the business purpose"
+      }
+    ]
+  },
+  {
+    "country": "Bulgaria",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Short term)",
+        "processing_time": "10-15 days",
+        "stay_period": "Up to 90 days",
+        "validity": "3 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 6,399/-",
+        "ideal_for": "Indian passport holders who want to visit Bulgaria for tourism, sightseeing or visiting family and friends"
+      },
+      {
+        "type": "Business Visa (Short term)",
+        "processing_time": "10-15 days",
+        "stay_period": "Up to 90 days",
+        "validity": "6 months",
+        "entry": "Multiple",
+        "fees": "INR 6,399/-",
+        "ideal_for": "Indian passport holders who want to visit Bulgaria for business purpose such as attending conference, seminar, participation in exhibition or commercial events"
+      }
+    ]
+  },
+  {
+    "country": "Sudan",
+    "visa_types": [
+      {
+        "type": "Tourist Visa  (Popular)",
+        "processing_time": "3 to 4 days",
+        "validity": "Upto   30 days",
+        "entry": "Single",
+        "fees ": "INR 6,399/-",
+        "ideal_for": "Indian passport holders who want to visit Sudan for leisure purpose, sightseeing or visiting family and friends"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "3 to 4 days",
+        "validity": "Upto 30 days",
+        "entry": "Single",
+        "fees": "INR 6,399/-",
+        "ideal_for": "Indian passport holders who want to visit Sudan for the purpose of business, participation in exhibitions, commercial events"
+      }
+    ]
+  },
+  {
+    "country": "Gabon",
+    "visa_types": [
+      {
+        "type": "Visa on Arrival",
+        "stay_period": "90 days",
+        "entry": "Single entry",
+        "fees": "EUR 70",
+        "ideal_for": "Indian citizens wishing to visit Gabonfor the purposes of tourism, sightseeing, visiting relatives and friends or conducting business activities"
+      }
+    ]
+  },
+  {
+    "country": "Suriname",
+    "visa_types": [
+      {
+        "type": "Tourist Card",
+        "processing_time": "4-5 days",
+        "stay_period": "90 days",
+        "entry": "Single",
+        "fees": "INR 4,399/-",
+        "ideal_for": "The Tourist Card isintroduced for Indiansamong other countriesand it is solelyintended for thepurpose of tourism"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "5-7 days",
+        "stay_period": "90 days",
+        "entry": "Single",
+        "fees": "INR 5,999/-",
+        "ideal_for": "Indian passport holderswishing to visitSuriname for businesspurposes like attendingconferences, exhibitions,meetings or seminars"
+      }
+    ]
+  },
+  {
+    "country": "Cameroon",
+    "visa_types": [
+      {
+        "type": "Tourist Visa",
+        "processing_time": "8 to 10 days",
+        "validity": "1 month",
+        "entry": "Single",
+        "fees": "INR 10,350/-",
+        "ideal_for": "Indian passport holders who want to visit Cameroon for tourism, sightseeing or visiting family and friends"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "8 to 10 days",
+        "validity": "1 month",
+        "entry": "Single",
+        "fees": "INR 10,350/-",
+        "ideal_for": "Indian passport holders who want to visit Cameroon for the purpose of business, participation in exhibitions, commercial events"
+      }
+    ]
+  },
+  {
+    "country": "Bahamas",
+    "visa_types": [
+      {
+        "type": "Single Entry Visitor Visa",
+        "processing_time": "10-15 days",
+        "validity": "3 months",
+        "entry": "Single",
+        "fees": "INR 9,999/-",
+        "ideal_for": "Indian passport holders wishing to enter Bahamas for tourism, business, short visits etc.."
+      },
+      {
+        "type": "Multiple Entry Visitor Visa",
+        "processing_time": "10-15 days",
+        "stay_period": "30 days",
+        "validity": "Up to 1 year",
+        "entry": "Multiple",
+        "fees": "INR 11,599/-",
+        "ideal_for": "Indian passport holders wishing to enter Bahamas for tourism, business, short visits etc"
+      }
+    ]
+  },
+  {
+    "country": "Romania",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Short term)",
+        "processing_time": "10 to 15 days",
+        "stay_period": "Up to 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7,999/-",
+        "ideal_for": "Indian passport holders wishing to visit Romania for tourism, visit or relaxation"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "10 to 15 days",
+        "stay_period": "Up to 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7,999/-",
+        "ideal_for": "Indian passport holders who want to visit Romania for business purpose such as attending conference, seminar, participation in exhibition or commercial events"
+      }
+    ]
+  },
+  {
+    "country": "Luxembourg",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Short term)",
+        "processing_time": "10-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7,399/-"
+      },
+      {
+        "type": "Business Visa (Short term)",
+        "processing_time": "10-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7,399/-"
+      }
+    ]
+  },
+  {
+    "country": "Italy",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Short term)",
+        "processing_time": "5-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7199/-"
+      },
+      {
+        "type": "Business Visa (Short term)",
+        "processing_time": "5-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7199/-"
+      }
+    ]
+  },
+  {
+    "country": "Honduras",
+    "visa_types": [
+      {
+        "type": "Tourist Visa",
+        "processing_time": "12 to 15 days",
+        "validity": "Up to 90 days",
+        "entry": "Single",
+        "fees ": "INR 4,999/-",
+        "ideal_for": "Indian passport holders who want to visit Honduras for leisure purpose, sightseeing or visiting family and friends"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "12 to 15 days",
+        "validity": "Validity Up to 90 days",
+        "entry": "Single",
+        "fees ": "INR 4,999/-",
+        "ideal_for": "Indian passport holders who want to visit Honduras for the purpose of business, participation in exhibitions, commercial events"
+      }
+    ]
+  },
+  {
+    "country": "Rwanda",
+    "visa_types": [
+      {
+        "type": "Tourist Visa",
+        "processing_time": "8 to 10 days",
+        "stay_period": "30 days",
+        "validity": "30 days",
+        "entry": "Single",
+        "fees": "INR 5,399/-",
+        "ideal_for": "Indian passport holders who want to visit Rwanda for tourism, sightseeing or visiting family and friends"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "8 to 10 days",
+        "stay_period": "30 days",
+        "validity": "30 days",
+        "entry": "Single",
+        "fees": "INR 5,399/-",
+        "ideal_for": "Indian passport holders who want to visit Rwanda for the purpose of business, participation in exhibitions, commercial events"
+      }
+    ]
+  },
+  {
+    "country": "Argentina",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Popular)",
+        "processing_time": "6-7 days",
+        "stay_period": "90 days",
+        "validity": "3 months",
+        "entry": "Multiple",
+        "fees": "INR 1,390/-",
+        "ideal_for": "Indian passport holders wishing to enter Argentina for tourism, sightseeing or visiting relatives and friends"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "6-7 days",
+        "stay_period": "90 days",
+        "validity": "3 months",
+        "entry": "Multiple",
+        "fees": "INR 1,390/-",
+        "ideal_for": "Indian passport holders wishing to enter Argentina for tourism, sightseeing or visiting relatives and friends"
+      }
+    ]
+  },
+  {
+    "country": "United Kingdom",
+    "visa_types": [
+      {
+        "type": "6 Months Short Term Visa",
+        "processing_time": "10-15 days",
+        "stay_period": "6 months",
+        "entry": "Multiple",
+        "fees": "INR 13,999/-"
+      },
+      {
+        "type": "2 years Long Term Visa",
+        "processing_time": "10-15 days",
+        "stay_period": "6 months",
+        "entry": "Multiple",
+        "fees": "INR 47,899/-"
+      },
+      {
+        "type": "5 years Long Term Visa",
+        "processing_time": "10-15 days",
+        "stay_period": "6 months",
+        "entry": "Multiple",
+        "fees": "INR 88,799/-"
+      },
+      {
+        "type": "10 Years Long Term Visa",
+        "processing_time": "10-15 days",
+        "stay_period": "6 months",
+        "entry": "Multiple",
+        "fees": "INR 1,09,899/-"
+      }
+    ]
+  },
+  {
+    "country": "El Salvador",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Popular)",
+        "processing_time": "05 to 07 days",
+        "stay_period": "As per Embassy",
+        "validity": "3 months",
+        "entry": "Single",
+        "fees": "INR 3,499/-",
+        "ideal_for": "Indian passport holders wishing to visit El Salvador for tourism & sightseeing or visiting relatives and friends"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "05 to 07 days",
+        "stay_period": "As per Embassy",
+        "validity": "3 months",
+        "entry": "Single",
+        "fees": "INR 3,499/-",
+        "ideal_for": "Indian passport holders attending business meetings, conferences in El Salvador"
+      }
+    ]
+  },
+  {
+    "country": "Vietnam",
+    "visa_types": [
+      {
+        "type": "Tourist eVisa",
+        "processing_time": "4-5 days",
+        "stay_period": "30 days",
+        "validity": "30 days",
+        "entry": "Single",
+        "fees": "INR 2,999 /-"
+      }
+    ]
+  },
+  {
+    "country": "Cyprus",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Short Term)",
+        "processing_time": "10 to 15 days",
+        "stay_periodupto_90_days": "upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 3,799/-"
+      },
+      {
+        "type": "Business Visa(Short term)",
+        "processing_time": "10 to 15 days",
+        "stay_periodupto_90_days": "upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 3,799/-",
+        "ideal_for": "Indian passport holders who want to visit Cyprus for the purpose of business, participation in exhibitions, commercial events"
+      }
+    ]
+  },
+  {
+    "country": "Guadeloupe",
+    "visa_types": [
+      {
+        "type": "Tourist Visa",
+        "processing_time": "13 to 15 days",
+        "stay_period": "90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 5,950/-",
+        "ideal_for": "Indian passport holders who want to visit Guadeloupefor tourism, sightseeing or visiting family and friends"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "13 to 15 days",
+        "stay_period": "90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 5,950/-",
+        "ideal_for": "Indian passport holders who want to visit Guadeloupefor the purpose of business such as attending meetings, conferences, participation in exhibitions, seminars or any other commercial activities"
+      }
+    ]
+  },
+  {
+    "country": "Guatemala",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Popular)",
+        "processing_time": "5 to 6 days",
+        "validity": "Upto 90 days",
+        "entry": "Single",
+        "fees": "INR 3,199/-",
+        "ideal_for": "Indian passport holderswishing to tour Guatemala"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "5 to 6 days",
+        "validity": "Upto 180 days",
+        "entry": "Single/Multiple",
+        "fees": "INR 6,199/-",
+        "ideal_for": "Indian passport holdersattending businessmeetings, conferencesin Guatemala"
+      }
+    ]
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "visa_types": [
+      {
+        "type": "Tourist Visa not required",
+        "visa_free": "For up to a stay of 90 days",
+        "validity": "3 months",
+        "ideal_for": "Indian passport holders wishing to visit Trinidad and Tobago for tourism or visit purpose."
+      },
+      {
+        "type": "Business Visa not required",
+        "visa_free": "For up to a stay of 90 days",
+        "validity": "3 months",
+        "ideal_for": "Indian passport holders wishing to visit Trinidad and Tobago for business purposes like attending conferences, exhibitions or meetings"
+      }
+    ]
+  },
+  {
+    "country": "Bhutan",
+    "visa_types": [
+      {
+        "type": "Entry Permiton Arrival",
+        "processing_time": "10 to 15 days",
+        "stay_period": "Upto 7 days",
+        "validity": "3 months",
+        "entry": "Single entry",
+        "extension": "Granted up to 3 weeks",
+        "fees": "Free of cost",
+        "ideal_for": "Indian citizens wishing to visit Bhutan for tourism purpose",
+        "visanot_required_for_indians": "Not required for Indians"
+      }
+    ]
+  },
+  {
+    "country": "Morocco",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Popular)",
+        "processing_time": "3-5 days",
+        "validity": "Up to 90 days",
+        "entry": "Single",
+        "fees": "INR 4,149/-",
+        "ideal_for": "Indian passport holderswishing to visitMorocco for tourismor visit purpose."
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "5-7 days",
+        "validity": "Up to 90 days",
+        "entry": "Single",
+        "fees": "INR 4,149/-",
+        "ideal_for": "Indian passport holderswishing to visitMorocco for businesspurposes like attendingconferences, exhibitionsor meetings."
+      }
+    ]
+  },
+  {
+    "country": "French Guiana",
+    "visa_types": [
+      {
+        "type": "Tourist Visa",
+        "processing_time": "10 to 15 days",
+        "stay_period": "30 days",
+        "validity": "30 days",
+        "entry": "Single/Multiple",
+        "visa_fee": "Available on request",
+        "ideal_for": "Indian passport holders who want to visit French Guiana for tourism, sightseeing or visiting family and friends"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "10 to 15 days",
+        "stay_period": "30 days",
+        "validity": "30 days",
+        "entry": "Single/Multiple",
+        "visa_fee": "Available on request",
+        "ideal_for": "Indian passport holders who want to visit French Guiana for the purpose of business such as attending meetings, conferences, participation in exhibitions, seminars or any other commercial activities"
+      }
+    ]
+  },
+  {
+    "country": "Panama",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Popular)",
+        "processing_time": "30 to 35 days",
+        "validity": "30 days",
+        "entry": "Single",
+        "fees": "INR 10,899/-",
+        "ideal_for": "Indian passport holders wishing to enter Panama for tourism or visit purpose"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "30 to 35 days",
+        "validity": "30 days",
+        "entry": "Single",
+        "fees": "INR 10,899/-",
+        "ideal_for": "Indian passport holders attending business meetings, conferences in Panama"
+      }
+    ]
+  },
+  {
+    "country": "Haiti",
+    "visa_types": [
+      {
+        "type": "Tourist Visa not required",
+        "stay_period": "90 days",
+        "entry": "Single",
+        "fees": "$10",
+        "extension": "On request",
+        "ideal_for": "Indian passport holders wishing to visit Haiti for tourism, leisure & visiting family or friends"
+      },
+      {
+        "type": "Business Visa not required",
+        "stay_period": "90 days",
+        "entry": "Single",
+        "fees": "$10",
+        "extension": "On request",
+        "ideal_for": "Indian passport holders wishing to visit Haiti for business purposes like attending conferences, exhibitions, seminars or meetings."
+      }
+    ]
+  },
+  {
+    "country": "Mali",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Popular)",
+        "processing_time": "5 to 6 days",
+        "validity": "1 months",
+        "entry": "Single",
+        "fees": "INR 4,899/-",
+        "ideal_for": "Indian passport holderswishing to tour Mali"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "5 to 6 days",
+        "validity": "3 months",
+        "entry": "Multiple",
+        "fees": "INR 11,999/-",
+        "ideal_for": "Indian passport holdersattending businessmeetings, conferencesin Mali"
+      }
+    ]
+  },
+  {
+    "country": "New Zealand",
+    "visa_types": [
+      {
+        "type": "Tourist Visa",
+        "processing_time": "10-15 days",
+        "stay_period": "As per Embassy",
+        "validity": "Upto 3 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 11,499/-"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "10-15 days",
+        "stay_period": "As per Embassy",
+        "validity": "Upto 3 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 11,499/-"
+      }
+    ]
+  },
+  {
+    "country": "Papua New Guinea",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Popular)",
+        "processing_time": "5 to 7 days",
+        "validity_&_stay_period": "As per Embassy",
+        "entry": "Single",
+        "fees ": "INR 1,399/-",
+        "ideal_for": "Indian passport holders who want to visit Papua New Guineafor tourism, sightseeing or visiting family and friends"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "8 to 9 days",
+        "validity_&_stay_period": "As per Embassy",
+        "entry": "Single",
+        "fees": "INR 14,299/-",
+        "ideal_for": "Indian passport holders who want to visit Papua New Guineafor business purpose such as attending conference, seminar, participation in exhibition or commercial events"
+      },
+       {
+        "type": "Business Visa",
+        "processing_time": "8 to 9 days",
+        "validity_&_stay_period": "As per Embassy",
+        "entry": "Multiple",
+        "fees ": "INR 26,899/-",
+        "ideal_for": "Indian passport holders who want to visit Papua New Guineafor business purpose such as attending conference, seminar, participation in exhibition or commercial events"
+      }
+    ]
+  },
+  {
+    "country": "Austria",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Short term)",
+        "processing_time": "10-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7,399/-"
+      },
+      {
+        "type": "Business Visa (Short term)",
+        "processing_time": "10-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7,399/-"
+      }
+    ]
+  },
+  {
+    "country": "Russia",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Popular)",
+        "processing_time": "10-12 days",
+        "stay_period": "30 days",
+        "validity": "As per Embassy",
+        "entry": "Single",
+        "fees": "INR 4,999/-"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "10-12 days",
+        "stay_period": "3 months",
+        "validity": "As per Embassy",
+        "entry": "Single",
+        "fees": "INR 4,999/-"
+      }
+    ]
+  },
+  {
+    "country": "Azerbaijan",
+    "visa_types": [
+      {
+        "type": "Tourist eVisa (Popular)",
+        "processing_time": "Up to 3 days",
+        "stay_period": "30 days",
+        "validity": "3 months",
+        "entry": "Single",
+        "fees": "INR 2,899/-",
+        "ideal_for": "Indian passport holders wishing to visit Azerbaijan for tourism & visit purpose"
+      },
+      {
+        "type": "Business eVisa",
+        "processing_time": "Up to 3 days",
+        "stay_period": "30 days",
+        "validity": "3 months",
+        "entry": "Single",
+        "fees": "INR 2,899/-",
+        "ideal_for": "Indian passport holders wishing to visit Azerbaijan for business purpose"
+      }
+    ]
+  },
+  {
+    "country": "Nepal",
+    "visa_types": [
+      {
+        "type": "Visa not required for Indian Nationals",
+        "stay_period&_validity": "No Restriction",
+        "ideal_for": "Indian passport holders wishing to visit Nepalfor tourism, visiting family or friends or participating in any commercial activity"
+      }
+    ]
+  },
+  {
+    "country": "United Arab Emirates",
+    "visa_types": [
+      {
+        "type": "90 Days Tourist Visa",
+        "processing_time": "Upto 5 days",
+        "stay_period": "90 days",
+        "validity": "58 days",
+        "entry": "Single",
+        "fees": "INR 18,999/-"
+      }
+    ]
+  },
+  {
+    "country": "Thailand",
+    "visa_types": [
+      {
+        "type": "Thailand e visa (Popular)",
+        "processing_time": "2-3 days",
+        "stay_period": "Up to 15 days",
+        "validity": "1 month",
+        "entry": "Single",
+        "fees": "INR 7,499/-"
+      },
+      {
+        "type": "Thailand e visa (Express)",
+        "processing_time": "Up to 24 hours",
+        "stay_period": "Up to 15 days",
+        "validity": "1 month",
+        "entry": "Single",
+        "fees": "INR 11,999/-"
+      },
+      {
+        "type": "Thailand Tourist Visa (Stamp Visa)",
+        "processing_time": "3-4 days",
+        "stay_period": "Up to 60 days",
+        "validity": "3 months",
+        "entry": "Single",
+        "fees": "INR 5,999/-"
+      },
+      {
+        "type": "Thailand Business Visa (Stamp Visa)",
+        "processing_time": "3-4 days",
+        "stay_period": "Up to 90 days",
+        "validity": "3 months",
+        "entry": "Single",
+        "fees": "INR 7,999/-"
+      }
+    ]
+  },
+  {
+    "country": "Serbia",
+    "visa_types": [
+      {
+        "type": "Tourist Visa not required",
+        "stay_period": "30 days",
+        "validity": "Within a period of  one year",
+        "entry": "Single",
+        "ideal_for": "Indian passport holders wishing to visit Serbia for tourism or visit purpose."
+      },
+      {
+        "type": "Business Visa not required",
+        "stay_period": "30 days",
+        "validity": "Within a period of  one year",
+        "entry": "Single",
+        "ideal_for": "Indian passport holders wishing to visit Serbia for business purposes like attending conferences, exhibitions or meetings"
+      }
+    ]
+  },
+  {
+    "country": "Turkmenistan",
+    "visa_types": [
+      {
+        "type": "Single Entry Visa",
+        "processing_time": "10 to 12 days",
+        "stay_period": "20 days",
+        "validity": "20 days",
+        "entry": "Single",
+        "fees": "INR 4,600/-",
+        "ideal_for": "Indian passport holders who want to visit Turkmenistan for tourism, sightseeing or visiting family and friends"
+      },
+      {
+        "type": "Multiple Entry Visa",
+        "processing_time": "10 to 12 days",
+        "stay_period": "30 days",
+        "validity": "30 days",
+        "entry": "Multiple",
+        "fees": "INR 6,700/-",
+        "ideal_for": "Indian passport holders who want to visit Turkmenistan for the purpose of business such as attending meetings, conferences, participation in exhibitions, seminars or any other commercial activities"
+      }
+    ]
+  },
+  {
+    "country": "Australia",
+    "visa_types": [
+      {
+        "type": "90 Days Tourist Visa",
+        "processing_time": "20-25 days",
+        "stay_period": "Upto 90 days",
+        "validity": "Upto 1 year",
+        "entry": "Single/Multiple",
+        "fees": "INR 12,999 /-"
+      },
+      {
+        "type": "90 Days Business Visa",
+        "processing_time": "20-25 days",
+        "stay_period": "Upto 90 days",
+        "validity": "Upto 1 year",
+        "entry": "Single/Multiple",
+        "fees": "INR 12,999 /-"
+      }
+    ]
+  },
+  {
+    "country": "Germany",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Short term)",
+        "processing_time": "10-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7,999/-"
+      },
+      {
+        "type": "Business Visa (Short term)",
+        "processing_time": "10-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7,999/-"
+      }
+    ]
+  },
+  {
+    "country": "Czechia",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Short term )",
+        "processing_time": "15-20 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 6,999/-"
+      },
+      {
+        "type": "Business Visa (Short term )",
+        "processing_time": "15-20 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 6,999/-"
+      }
+    ]
+  },
+  {
+    "country": "Canada",
+    "visa_types": [
+      {
+        "type": "Tourist Visa",
+        "processing_time": "20-25 days",
+        "stay_period": "Upto 6 months",
+        "validity": "As per Embassy",
+        "entry": "Single/Multiple",
+        "fees": "INR 8499/-"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "20-25 days",
+        "stay_period": "Upto 6 months",
+        "validity": "As per embassy",
+        "entry": "Single/Multiple",
+        "fees": "INR 8499/-"
+      }
+    ]
+  },
+  {
+    "country": "Qatar",
+    "visa_types": [
+      {
+        "type": "Tourist Visa 30 Days (Age 1-55 years)",
+        "processing_time": "5-6 days",
+        "stay_period": "30 days",
+        "validity": "3 months",
+        "entry": "Single",
+        "fees": "INR 8,999/-"
+      },
+      {
+        "type": "Tourist Visa 30 Days (Age 55 years & above)",
+        "processing_time": "5-6 days",
+        "stay_period": "30 days",
+        "validity": "3 months",
+        "entry": "Single",
+        "fees": "INR 13,999/-"
+      },
+      {
+        "type": "Business Visa 30 Days",
+        "processing_time": "5-6 days",
+        "stay_period": "30 days",
+        "validity": "3 months",
+        "entry": "Single",
+        "fees": "INR 9,999/-"
+      },
+      {
+        "type": "Business Visa 90 Days",
+        "processing_time": "5-6 days",
+        "stay_period": "90 days",
+        "validity": "3 months",
+        "entry": "Single",
+        "fees": "INR 20,999/-"
+      }
+    ]
+  },
+  {
+    "country": "Taiwan",
+    "visa_types": [
+      {
+        "type": "Single Entry Visitor Visa",
+        "processing_time": "4 to 5 days",
+        "stay_period": "60 days",
+        "validity": "1 to 3 months",
+        "entry": "Single",
+        "fees": "INR 4,800/-",
+        "ideal_for": "Indian passport holders who want to visit Taiwan for tourism, sightseeing or visiting family and friends"
+      },
+      {
+        "type": "Multiple Entry Visitor Visa",
+        "processing_time": "4 to 5 days",
+        "stay_period": "60 days",
+        "validity": "6 months to 3 years",
+        "entry": "Multiple",
+        "fees": "INR 8,350/-",
+        "ideal_for": "Indian passport holders who want to visit Taiwanfor the purpose of business such as attending meetings, conferences, participation in exhibitions, seminars or any other commercial activities"
+      }
+    ]
+  },
+  {
+    "country": "Bolivia",
+    "visa_types": [
+      {
+        "type": "Tourist Visa  (Popular)",
+        "processing_time": "3 to 4 days",
+        "validity": "30 days",
+        "entry": "Single",
+        "fees": "INR 1,399/-",
+        "ideal_for": "Indian passport holders who want to visit Bolivia for tourism,  sightseeing or visiting family and friends"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "3 to 4 days",
+        "validity": "30 days",
+        "entry": "Single",
+        "fees": "INR 7,999/-",
+        "ideal_for": "Indian passport holders who want to visit Bolivia for the purpose of business, participation in exhibitions, commercial events"
+      }
+    ]
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "visa_types": [
+      {
+        "type": "Tourist Visa not required",
+        "stay_period": "30 days",
+        "entry": "Single",
+        "ideal_for": "Indian passport holders wishing to visit Saint Vincent and the Grenadines for tourism, leisure & visiting family or friends"
+      },
+      {
+        "type": "Tourist Visa not required",
+        "stay_period": "30 days",
+        "entry": "Single",
+        "ideal_for": "Indian passport holders wishing to visit Saint Vincent and the Grenadines for business purposes like attending conferences, exhibitions, seminars or meetings"
+      }
+    ]
+  },
+  {
+    "country": "Cuba",
+    "visa_types": [
+      {
+        "type": "Tourist Visa",
+        "processing_time": "5 to 7 days",
+        "validity": "30 days",
+        "entry": "Single",
+        "fees": "INR 7,999/-",
+        "ideal_for": "Indian passport holders who want to visit Cubafor tourism, sightseeing or visiting family and friends"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "5 to 7 days",
+        "validity": "30 days",
+        "entry": "Single",
+        "fees": "INR 7,999/-",
+        "ideal_for": "Indian passport holders who want to visit Cuba for the purpose of business, participation in exhibitions, commercial events"
+      }
+    ]
+  },
+  {
+    "country": "American Samoa",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Popular)",
+        "validity": "30 days",
+        "entry": "Single",
+        "fees ": "US$ 40",
+        "ideal_for": "Indian passport holders who want to visit American Samoa for leisure purpose, sightseeing or visiting family and friends"
+      }
+    ]
+  },
+  {
+    "country": "Coted Ivoire",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Popular)",
+        "processing_time": "Up to 90 days",
+        "validity": "30 days",
+        "entry": "Single",
+        "fees": "INR 5,399/-",
+        "ideal_for": "Indian passport holders wishing to enter Coted Ivoire for tourism or visit purpose"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "Up to 90 days",
+        "validity": "30 days",
+        "entry": "Single",
+        "fees": "INR 5,399/-",
+        "ideal_for": "Indian passport holders attending business meetings, conferences in Coted Ivoire"
+      }
+    ]
+  },
+  {
+    "country": "Tanzania",
+    "visa_types": [
+      {
+        "type": "Tourist eVisa (Ordinary Visa)",
+        "processing_time": "10 to 12 days",
+        "stay_period": "90 days",
+        "validity": "90 days",
+        "entry": "Single",
+        "fees": "INR 4,959/-",
+        "ideal_for": "Indian passport holders wishing to visit Tanzania for tourism, sightseeing or visiting family & friends"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "10 to 12 days",
+        "stay_period": "90 days",
+        "validity": "90 days",
+        "entry": "Single",
+        "fees": "INR 19,199/-",
+        "ideal_for": "Indian passport holders who want to visit Tanzania for the purpose of business, participation in exhibitions, commercial events"
+      }
+    ]
+  },
+  {
+    "country": "Egypt",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Popular)",
+        "processing_time": "10-15 days",
+        "validity": "30 days",
+        "entry": "Single",
+        "fees": "INR 5,999 /-",
+        "ideal_for": "Indian passport holderswishing to tour Egypt"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "10-15 days",
+        "validity": "30 days",
+        "entry": "Single",
+        "fees": "INR 6,999 /-",
+        "ideal_for": "Indian passport holdersattending businessmeetings, conferencesin Egypt"
+      }
+    ]
+  },
+  {
+    "country": "Zambia",
+    "visa_types": [
+      {
+        "type": "Single Entry eVisa (Popular)",
+        "processing_time": "2 to 3 days",
+        "stay_period": "90 days",
+        "validity": "90 days",
+        "entry": "Single",
+        "fees": "INR 5,199/-",
+        "ideal_for": "Indian passport holders wishing to visit Zambia for tourism, sightseeing or visiting family & friends"
+      },
+      {
+        "type": "Double/Multiple Entry eVisa (Popular)",
+        "processing_time": "4 to 5 days",
+        "stay_period": "90 days",
+        "validity": "90 days",
+        "entry": "Double/Multiple",
+        "fees": "INR 6,999/-",
+        "ideal_for": "Indian passport holders attending business meetings, conferences, exhibitions or seminars in Zambia"
+      }
+    ]
+  },
+  {
+    "country": "Laos",
+    "visa_types": [
+      {
+        "type": "Tourist Visa on Arrival",
+        "stay_period": "30 days",
+        "entry": "Single entry",
+        "extension": "15 days",
+        "fees": "US$35",
+        "ideal_for": "Indian passport holders who want to visit Laosfor tourism, sightseeing or visiting family and friends"
+      },
+      {
+        "type": "Business Visa on Arrival",
+        "stay_period": "30 days",
+        "entry": "Single entry",
+        "extension": "15 days",
+        "fees": "US$35",
+        "ideal_for": "Indian passport holders who want to visit Laosfor business purpose such as attending conference, seminar, participation in exhibition or commercial events"
+      }
+    ]
+  },
+  {
+    "country": "China",
+    "visa_types": [
+      {
+        "type": "Tourist Visa",
+        "processing_time": "4-6 days",
+        "stay_period": "Upto 30 days",
+        "validity": "Upto 90 days",
+        "entry": "Single",
+        "fees": "INR 7099/-"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "4-6 days",
+        "stay_period": "Upto 90 days",
+        "validity": "Upto 90 days",
+        "entry": "Single",
+        "fees": "INR 7099/-"
+      }
+    ]
+  },
+  {
+    "country": "Ecuador",
+    "visa_types": [
+      {
+        "type": "90 days Tourist Visa on arrival",
+        "visa_on_arrival": "Indians get 90-day visa on arrival",
+        "validity": "90 days",
+        "ideal_for": "Indian passport holders wishing to visit Ecuador for tourism or visit purpose."
+      },
+      {
+        "type": "Business Visa",
+        "visa_on_arrival": "Indians get 90-day visa on arrival",
+        "validity": "90 days",
+        "ideal_for": "Indian passport holders wishing to visit Ecuador for business purposes like attending conferences, exhibitions or meetings ."
+      }
+    ]
+  },
+  {
+    "country": "Brunei",
+    "visa_types": [
+      {
+        "type": "Tourist Visa",
+        "processing_time": "4to 5 days",
+        "stay_period": "30 days",
+        "validity": "3 months",
+        "entry": "Single",
+        "fees": "INR 1,900/-",
+        "ideal_for": "Indian passport holders who want to visit Brunei for tourism, sightseeing or visiting family and friends"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "4 to 5 days",
+        "stay_period": "30 days",
+        "validity": "3 months",
+        "entry": "Single entry",
+        "fees": "INR 1,900/-",
+        "ideal_for": "Indian passport holders who want to visit Brunei for the purpose of business such as attending meetings, conferences, participation in exhibitions, seminars or any other commercial activities"
+      }
+    ]
+  },
+  {
+    "country": "Cambodia",
+    "visa_types": [
+      {
+        "type": "Tourist eVisa",
+        "processing_time": "2-3 days",
+        "stay_period": "30 days",
+        "validity": "3 months",
+        "entry": "Single",
+        "fees": "INR 4,199/-"
+      }
+    ]
+  },
+  {
+    "country": "Lithuania",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Short term)",
+        "processing_time": "10-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "NR 6,199/-"
+      },
+      {
+        "type": "Business Visa (Short term)",
+        "processing_time": "10-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 6,199/-"
+      }
+    ]
+  },
+  {
+    "country": "Armenia",
+    "visa_types": [
+      {
+        "type": "Visitor Visa Short Term (21 days)",
+        "processing_time": "2-3 days",
+        "stay_period": "21 days",
+        "validity": "90 days",
+        "entry": "Single",
+        "fees": "INR 1,599/-",
+        "ideal_for": "Indian passport holders planning a short-term visit to Armenia for tourism, sightseeing or visiting family & friends"
+
+      },
+      {
+        "type": "Visitor Visa Long Term (120 days)",
+        "processing_time": "2-3 days",
+        "stay_period": "120 days",
+        "validity": "180 days",
+        "entry": "Single",
+        "fees": "INR 3,699/-",
+        "ideal_for": "Indian passport holders planning an extended visit to Armenia for tourism, longer family visits or other non-permanent activities"
+
+      }
+    ]
+  },
+  {
+    "country": "Liechtenstein",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Popular)",
+        "processing_time": "10-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7,199/-"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "10-15 days",
+        "stay_period": "Upto 90 days",
+        "validity": "6 months",
+        "entry": "Single/Multiple",
+        "fees": "INR 7,199/-"
+      }
+    ]
+  },
+  {
+    "country": "United Arab Emirates",
+    "visa_types": [
+      {
+        "type": "30 Days Tourist Visa",
+        "processing_time": "Upto 5 days",
+        "stay_period": "30 days",
+        "validity": "58 days",
+        "entry": "Single",
+        "fees": "INR 7,199/-"
+      },
+      {
+        "type": "30 Days Tourist Visa (Express)",
+        "processing_time": "Upto 48 hours",
+        "stay_period": "30 days",
+        "validity": "58 days",
+        "entry": "Single",
+        "fees": "INR 8,199/-"
+      }
+    ]
+  },
+  {
+    "country": "Mauritania",
+    "visa_types": [
+      {
+        "type": "Tourist Visa on Arrival",
+        "stay_period": "30 days",
+        "validity": "30 days",
+        "entry": "Single entry",
+        "fees ": "US$60",
+        "ideal_for": "Indian citizens wishing to visit Mauritania for the purposes of tourism, sightseeing or visiting relatives and friends"
+      },
+      {
+        "type": "Business Visa on Arrival",
+        "stay_period": "30 days",
+        "validity": "30 days",
+        "entry": "Single Entry",
+        "fees ": "US$60",
+        "ideal_for": "Indian citizens wishing to visit Mauritania for the business purpose"
+      }
+    ]
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "visa_types": [
+      {
+        "type": "Tourist Visa not required",
+        "stay_period": "3 months",
+        "entry": "Single",
+        "ideal_for": "Indian passport holders who want to visit Saint Kitts and Nevis for tourism, sightseeing or visiting family and friends"
+      },
+      {
+        "type": "Business Visa not required",
+        "stay_period": "3 months",
+        "entry": "Single",
+        "ideal_for": "Indian passport holders who want to visit Saint Kitts and Nevisfor the purpose of business such as attending meetings, conferences, participation in exhibitions, seminars or any other commercial activities"
+      }
+    ]
+  },
+  {
+    "country": "North Korea",
+    "visa_types": [
+      {
+        "type": "Tourist Visa",
+        "processing_time": "15 to 20 days",
+        "stay_period": "30 days",
+        "validity": "90 days",
+        "entry": "Single",
+        "fees": "USD 50",
+        "ideal_for": "Indian passport holders wishing to enter North Korea for tourism, sightseeing or visiting relatives and friends"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "15 to 20 days",
+        "stay_period": "30 days",
+        "validity": "90 days",
+        "entry": "Single",
+        "fees": "USD 50",
+        "ideal_for": "Indian passport holders attending business meetings, exhibitions. conferences in North Korea"
+      }
+    ]
+  },
+  {
+    "country": "Malawi",
+    "visa_types": [
+      {
+        "type": "Tourist Visa (Popular)",
+        "processing_time": "3 to 4 days",
+        "validity": "1 month",
+        "entry": "Single",
+        "fees ": "INR 11,499/-",
+        "ideal_for": "Indian passport holders who want to visit Malawi for tourism or holidaying"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "3 to 4 days",
+        "validity": "1 month",
+        "entry": "Single",
+        "fees": "INR 11,499/-",
+        "ideal_for": "Indian passport holders who want to visit Malawi for the purpose of business, participation in exhibitions, commercial events"
+      }
+    ]
+  },
+  {
+    "country": "Israel",
+    "visa_types": [
+      {
+        "type": "Tourist Visa",
+        "processing_time": "5 to 7 days",
+        "stay_period": "Up to 90 days",
+        "entry": "Single",
+        "fees": "INR 4099",
+        "ideal_for": "tourism, sightseeing or visiting family and friends"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "5 to 7 days",
+        "stay_period": "Up to 90 days",
+        "entry": "Single",
+        "fees": "INR 4099",
+        "ideal_for": "business purpose such as attending conference, seminar, participation in exhibition or commercial events"
+      }
+    ]
+  },
+  {
+    "country": "Lebanon",
+    "visa_types": [
+      {
+        "type": "Tourist Visa",
+        "processing_time": "10 to 15 days",
+        "stay_period": "Up to 90 days",
+        "validity": "3 months",
+        "entry": "Single/Double/Multiple",
+        "fees": "INR 5399",
+        "ideal_for": "Tourism or visit purpose"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "10 to 15 days",
+        "stay_period": "Up to 90 days",
+        "validity": "3 months",
+        "entry": "Single/Double/Multiple",
+        "fees": "INR 5399",
+        "ideal_for": "business meetings, conferences"
+      }
+    ]
+  },
+  {
+    "country": "Solomon Islands",
+    "visa_types": [
+      {
+        "type": "Visitor Visa",
+        "processing_time": "10 to 15 days",
+        "stay_period": "3 months",
+        "entry": "Single",
+        "fees": "INR 13250",
+        "ideal_for": "tourism, sightseeing or visiting family and friends"
+      },
+      {
+        "type": "Business Visa",
+        "processing_time": "10 to 15 days",
+        "stay_period": "3 months",
+        "entry": "Single",
+        "fees": "INR 13250",
+        "ideal_for": "business purpose of attending meetings, conferences, participation in exhibitions, seminars or any other commercial activities"
+      }
+    ]
+  },
+  {
+    "country": "Guinea Bissau",
+    "visa_types": [
+      {
+        "type": "Single Entry Visa on Arrival (Short stay)",
+        "processing_time": "On arrival",
+        "stay_period": "30 days",
+        "entry": "Single",
+        "fees": "INR 6850",
+        "ideal_for": "tourism, sightseeing or visiting family & friends"
+      },
+      {
+        "type": "Multiple Entry Visa on Arrival",
+        "processing_time": "On arrival",
+        "stay_period": "3 months",
+        "entry": "Multiple entry",
+        "fees": "INR 7250",
+        "ideal_for": "business meetings, conferences, exhibitions or seminars"
+      }
+    ]
+  },
+  {
+    "country": "Liberia",
+    "visa_types": [
+      {
+        "type": "Single Entry Visa",
+        "processing_time": "7 to 8 days",
+        "stay_period": "3 months",
+        "entry": "Single",
+        "fees": "INR 8900",
+        "ideal_for": "tourism, sightseeing or visiting family and friends"
+      },
+      {
+        "type": "Multiple Entry Visa",
+        "processing_time": "7 to 8 days",
+        "stay_period": "6 months",
+        "entry": "Multiple",
+        "fees": "INR 13600",
+        "ideal_for": "business purpose such as attending meetings, conferences, participation in exhibitions, seminars or any other commercial activities"
+      }
+    ]
+  },
+  {
+    "country": "Jordan",
+    "visa_types": [
+      {
+        "type": "Tourist eVisa (Popular)",
+        "processing_time": "Within 1 day",
+        "stay_period": "30 days",
+        "validity": "90 days",
+        "entry": "Single",
+        "fees": "INR 4886.40",
+        "ideal_for": "tourism and leisure"
+      }
+    ]
+  },
+  {
+    "country": "Marshall Islands",
+    "visa_types": [
+      {
+        "type": "Visa on Arrival",
+        "processing_time": "On arrival",
+        "stay_period": "Up to 90 days",
+        "validity": "90 days",
+        "entry": "Single",
+        "fees": "Free",
+        "ideal_for": "Tourism, business"
+      }
+    ]
+  },
+  {
+    "country": "Niue",
+    "visa_types": [
+      {
+        "type": "Visa Free",
+        "processing_time": "Not applicable",
+        "stay_period": "Up to 30 days",
+        "validity": "Not applicable",
+        "entry": "Single",
+        "fees": "Free",
+        "ideal_for": "Tourism"
+      }
+    ]
+  },
+  {
+    "country": "Palau",
+    "visa_types": [
+      {
+        "type": "Visa on Arrival",
+        "processing_time": "On arrival",
+        "stay_period": "Up to 30 days",
+        "validity": "Up to 90 days",
+        "entry": "Single",
+        "fees": "Free",
+        "ideal_for": "Tourism, business"
+      }
+    ]
+  },
+  {
+    "country": "Cook Islands",
+    "visa_types": [
+      {
+        "type": "Visa Free",
+        "processing_time": "Not applicable",
+        "stay_period": "Up to 31 days",
+        "validity": "Up to 90 days",
+        "entry": "Single",
+        "fees": "Free",
+        "ideal_for": "Tourism",
+        "extension": "Possible, up to a total of 62 days with approval"
+      }
+    ]
+  },
+  {
+    "country": "Montserrat",
+    "visa_types": [
+      {
+        "type": "Visa Free",
+        "processing_time": "Not applicable",
+        "stay_period": "Up to 6 months",
+        "validity": "Not applicable",
+        "entry": "Single/Multiple",
+        "fees": "Free",
+        "ideal_for": "Tourism, business"
+      }
+    ]
+  },
+  {
+    "country": "Turks and Caicos Islands",
+    "visa_types": [
+      {
+        "type": "Visa on Arrival",
+        "processing_time": "Not applicable",
+        "stay_period": "Up to 90 days",
+        "validity": "Up to 90 days",
+        "entry": "Single/Multiple",
+        "fees": "Free",
+        "ideal_for": "Tourism, business"
+      }
+    ]
+  },
+  {
+    "country": "British Virgin Islands",
+    "visa_types": [
+      {
+        "type": "Visa Free",
+        "processing_time": "Not applicable",
+        "stay_period": "Up to 90 days",
+        "validity": "Not applicable",
+        "entry": "Single",
+        "fees": "Free",
+        "ideal_for": "Tourism, business",
+        "extension": "Possible, up to 6 months with approval"
+      }
+    ]
+  },
+  {
+    "country": "Jamaica",
+    "visa_types": [
+      {
+        "type": "Visa Free",
+        "processing_time": "Not applicable",
+        "stay_period": "Up to 30 days",
+        "validity": "Up to 90 days",
+        "entry": "Single",
+        "fees": "Free",
+        "ideal_for": "Tourism"
+      }
+    ]
+  },
+  {
+    "country": "Mongolia",
+    "visa_types": [
+      {
+        "type": "Tourist eVisa",
+        "processing_time": "3-4 days",
+        "stay_period": "Up to 30 days",
+        "validity": "Up to 150 days",
+        "entry": "Single",
+        "fees": "INR 1450",
+        "ideal_for": "Tourism, business"
+      }
+    ]
+  }
+]
