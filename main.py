@@ -2,6 +2,26 @@ import json
 import re
 import os
 import random
+import mysql.connector
+
+# DB connection setup
+db = mysql.connector.connect(
+    host="saathidev.c50w44euot42.ap-south-1.rds.amazonaws.com",
+    user="techdev",
+    password="TechDevSaathi",
+    database="saathi_dev"
+)
+cursor = db.cursor()
+
+def get_country_data_from_db(country_name):
+    query = "SELECT cost, processingTime FROM visa_country_info WHERE slug = %s LIMIT 1"
+    cursor.execute(query, (country_name.lower(),))
+    result = cursor.fetchone()
+    if result:
+        cost, processing_time = result
+        return cost, processing_time
+    else:
+        return None, None
 
 def extract_numeric_fee(fee_str):
     if not fee_str:
@@ -44,6 +64,14 @@ os.makedirs("visa", exist_ok=True)
 # Process each country
 for country, visa_types in visa_by_country.items():
     try:
+        # Check DB for existing cost and processing time
+        cost, processing_time = get_country_data_from_db(country)
+        if cost and processing_time:
+            print(f"⚠ Exists in DB: {country} - Cost: {cost} - Processing Time: {processing_time}")
+            # Overwrite first visa_type with DB data
+            visa_types[0]['fees'] = str(cost)
+            visa_types[0]['processing_time'] = processing_time
+
         documents = docs_by_country.get(country)
         steps = steps_by_country.get(country)
         faqs = faqs_by_country.get(country)
@@ -51,7 +79,7 @@ for country, visa_types in visa_by_country.items():
         if not documents or not steps or not faqs:
             raise ValueError("Missing one or more required data blocks")
 
-        # Find visa with the lowest fee
+        # Find visa with the lowest fee (after DB override)
         lowest_visa = min(visa_types, key=lambda x: extract_numeric_fee(x.get("fees", "")))
         lowest_fee = lowest_visa.get("fees", "0")
         lowest_processing_time = lowest_visa.get("processing_time", "N/A")
@@ -134,8 +162,8 @@ for country, visa_types in visa_by_country.items():
         updated_php = updated_php.replace("`FAQ_SCHEMA`", faq_schema_php)
         updated_php = updated_php.replace("`Country`", country).replace("'Country'", f"'{country}'")
         updated_php = updated_php.replace("`Random`", str(round(random.uniform(95.0, 99.5), 1)))
-        updated_php = updated_php.replace("`Price`", lowest_fee)
-        updated_php = updated_php.replace("`ProcessingTime`", lowest_processing_time)
+        updated_php = updated_php.replace("`Price`", str(lowest_fee))
+        updated_php = updated_php.replace("`ProcessingTime`", str(lowest_processing_time))
         updated_php = updated_php.replace("`image_url`", f"{country.replace(' ', '-')}.webp")
 
         # Write output file
@@ -156,3 +184,4 @@ with open("completed.txt", "w", encoding="utf-8") as f:
 
 with open("errors.txt", "w", encoding="utf-8") as f:
     f.write("\n".join(error_countries))
+
